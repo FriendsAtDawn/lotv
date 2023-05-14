@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interés compuesto contínuo on Wilson Villalba</title>
+    <link>/tags/inter%C3%A9s-compuesto-cont%C3%ADnuo/</link>
+    <description>Recent content in interés compuesto contínuo on Wilson Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/inter%C3%A9s-compuesto-cont%C3%ADnuo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interés francés.</title>
+      <link>/posts/interes-frances/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/interes-frances/</guid>
+      <description>Interés Francés. Los americanos llaman french fries a las papas fritas. Los franceses, por primera vez, no tienen nada que ver con esa aberración.
+El interés francés es un interés compuesto, uno de sus tantos sabores. En este, la frecuencia de composición no es de un mes como en la ley de Bancos Primigenia, ni es diaria. La composición sucede instante trás instante. Su fórmula es, ya desprovista de la breve formulación de función cuando x tiende a infinito:</description>
+    </item>
+    
+    <item>
+      <title>Interés compuesto</title>
+      <link>/posts/interes-compuesto/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/interes-compuesto/</guid>
+      <description>Interés compuesto Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:
+ANATOCISMO: NOCIÓN.- ES la capitalización de los intereses, o interés compuesto, de modo que agregándose tales intereses al capital originario pasan a redituar nuevos intereses. Esto es notable desde la misma notación de la fórmula. La del interés simple es:
+$$ I = C \times \Delta t \times ratio $$
+Casi intuitivamente que esos valores constantes &amp;mdash;salvo el tiempo que pasa&amp;mdash; van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:</description>
+    </item>
+    
+  </channel>
+</rss>

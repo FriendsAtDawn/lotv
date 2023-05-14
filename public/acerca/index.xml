@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>otros on Wilson Villalba</title>
+    <link>/acerca/</link>
+    <description>Recent content in otros on Wilson Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/acerca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Te hackearon o te hackeaste a vos mismo?</title>
+      <link>/de-otros-lados/hackaton/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/de-otros-lados/hackaton/</guid>
+      <description>Cuando los medios periodísticos o los medios masivos o, en general, aquellos que se dominan mass media pronuncian hoy en día la palabra &amp;laquo;tecnología&amp;raquo; se refieren en realidad a la tecnología que nos han traído las computadoras, la electrónica. Cualquier producto humano capaz de generar una situación nueva, sea esta grandes o pequeña &amp;mdash;nunca se sabe cuáles serán los resultados&amp;mdash; las llamamos tecnología; así, por ejemplo, en algún momento de nuestra historia, dejamos de cazar para vivir y parte de nosotros se asentó en lugares que halló propicios; en vez de mudarse cuando la tierra ya no rendía frutos, elegían quedarse en ella y cultivarla.</description>
+    </item>
+    
+    <item>
+      <title>Árbol de Directorios</title>
+      <link>/de-otros-lados/folder-tree/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/de-otros-lados/folder-tree/</guid>
+      <description>Es bastante difícil establecer un orden en los archivos sin hacer lo mismo con un árbol de directorios.
+Este es el resultado de una primera aproximación.
+Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    
+    <item>
+      <title>I started a blog.</title>
+      <link>/de-otros-lados/i-started-a-blog/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/de-otros-lados/i-started-a-blog/</guid>
+      <description>Empecé con esta página con ganas de aprender de todo y me sorprende que, habiendo aprendido tan poco, haya recibido tal cantidad de visitas (no se preocupen, sé que muchos son bots).
+Trabajo en Paraguay, se habrán dado cuenta de eso, y así como es endeble el sistema judicial dentro del cual estoy inserto, así mismo hay gente que lucha denodadamente porque la Corte adquiera poder. El poder que le falta.</description>
+    </item>
+    
+    <item>
+      <title>Corporate mugshot.</title>
+      <link>/de-otros-lados/corporate-mugshot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de-otros-lados/corporate-mugshot/</guid>
+      <description>Abogado por la Universidad Nacional de Asunción. Mgr. Sc. por la Universidad Columbia. Tengo extensos conocimientos sobre el Derecho Procesal Civil, casi tan amplios como los que poseo acerca del Código Civil. Ello implica necesariamente la noción de varias otras disciplinas, las que quedan insertas dentro de ese marco. Presto asesoría a varias empresas. Algunas en el campo estrictamente civil, otros en el campo administrativo que, como se sabe, comparte campo con el Derecho Penal.</description>
+    </item>
+    
+  </channel>
+</rss>

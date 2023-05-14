@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recursos on Wilson Villalba</title>
+    <link>/tags/recursos/</link>
+    <description>Recent content in recursos on Wilson Villalba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/recursos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excalidraw.</title>
+      <link>/links/excalidraw/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/links/excalidraw/</guid>
+      <description>Excalidraw. Hacer un gráfico ayuda mucho al lector.
+Hacer uno no tan perfecto, como de mano alzada, creo que es mejor.
+https://excalidraw.com/ lo hace. Tiene más fans que las peliculas de terror.
+Exporta a SVG y a PNG y aunque puede ser que el primero suene un poco extraño a muchos, el segundo no.
+Se podría decir que excd, deforma de propósito los trazos que hacen a los gráficos, y uno podría pensar si eso es bueno.</description>
+    </item>
+    
+    <item>
+      <title>Bibliografía.</title>
+      <link>/links/sellos-de-tiempo/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/links/sellos-de-tiempo/</guid>
+      <description>MyBib.com He encontrado en este sitio una manera muy sencilla de producir las entradas de los archivos de jurisprudencia.
+Básicamente uno puede ingresar el ISBN del libro y obtener todas las entradas.</description>
+    </item>
+    
+    <item>
+      <title>Sellos de tiempo.</title>
+      <link>/links/my-bib/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/links/my-bib/</guid>
+      <description>Timestamps. Una de las cuestiones más difíciles en cuanto se refiere a los documentos es establecer su fecha cierta. La costumbre inveterada de antedatar hace que siempre dudemos de cualquiera de ellas.
+https://www.truetimestamp.org/ es la página más sencilla que hallé en cuanto a hacer un timestamp. Hay otras, pero si no tienen experiencia, sería bueno que empiecen con esta.
+Tenemos leyes, tenemos tratados internacionales, que dan al documento electrónico1 el mismo valor que el no electrónico: el de escribanía, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
