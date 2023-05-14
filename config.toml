@@ -1,0 +1,83 @@
+title = "Wilson Villalba"
+baseURL = "/"
+languageCode = "es-es"
+theme = "ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "es"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
+    #[taxonomies]
+    #author = "authors"
+
+[menu]
+  
+  [[menu.main]]
+    identifier = 'villalba.is'
+    name = 'villalba.is'
+    url = 'https://villalba.is'
+    weight = 90
+  [[menu.main]]
+    identifier = '0007407.xyz'
+    name = '0007407.xyz'
+    url = 'https://0007407.xyz'
+    weight = 100
+  
+    
+    #[[menu.main]]
+    #  identifier = 'about'
+    #  name = 'about'
+    #  pageRef = '/about'
+    #  weight = 20
+    #[[menu.main]]
+    #  identifier = 'posts'
+    #  name = 'plra'
+    #  pageRef = '/plra'
+    #  weight = 30
+    #[[menu.main]]
+    #  identifier = 'archivo'
+    #  name = 'archivo'
+    #  pageRef = '/archivo'
+    #  weight = 40
+
+
+[languages]
+
+  [languages.es]
+    title = "Wilson Villalba"
+    description = "Litigios"
+    weight = 1
+    contentDir = "content/es"
+  # languageDirection = 'rtl' for Right-To-Left languages
+  
+  #[languages.fr]
+  #  title = "Ananke Fr"
+  #  weight = 2
+  #  contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "Wilson Villalba"
+  favicon = "vvv.svg"
+  site_logo = "vvv.svg"
+  description = "Litigios."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-blue"
+  recent_posts_number = 3
+  post_content_classes = "athelas"
+  body_classes = "times"
+  feature_image = "/images/cover.jpg"
+
+[[params.ananke_socials]]
+  name = "telegram"
+  url = "https://t.me/habermas"
+  
