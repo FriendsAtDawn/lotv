@@ -69,7 +69,7 @@ enableRobotsTXT = true
   text_color = ""
   author = "Wilson Villalba"
   favicon = "vvv.svg"
-  site_logo = "vvv.svg"
+  site_logo = "https://villalba.is/vvv.svg"
   description = "Litigios."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
