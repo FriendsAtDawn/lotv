@@ -1,6 +1,6 @@
 title = "Wilson Villalba"
 baseURL = "/"
-languageCode = "es-es"
+languageCode = "es"
 theme = ["hugo-embed-pdf-shortcode", "ananke"]
 enableInlineShortcodes = true
 resourceDir = "../resources"
