@@ -1,5 +1,5 @@
 title = "Wilson Villalba"
-baseURL = "blog.firmus.site"
+baseURL = "blog.villalba.is"
 languageCode = "es"
 theme = ["hugo-embed-pdf-shortcode", "ananke"]
 enableInlineShortcodes = true
