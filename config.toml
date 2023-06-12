@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = 'buscador de jurisprudencia'  
+    identifier = 'buscador-de-jurisprudencia'  
     name =  'buscador de jurisprudencia' 
     pageRef = 'https://rcsj.0007407.xyz'
     weight = 80
