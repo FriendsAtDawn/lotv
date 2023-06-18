@@ -18,7 +18,7 @@ $$
 I = C \times \Delta t \times ratio
 $$
 
-Casi intuitivamente que esos valores constantes ---salvo el tiempo que pasa--- van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:
+Casi intuitivamente conocemos que esos valores constantes ---salvo el tiempo que pasa--- van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:
 
 Así si partimos desde un 
 
@@ -74,6 +74,8 @@ $$
 
 ![Interes](/posts/img/compuesto.png)
 
+O sea que el llamado "interés francés" es en realidad un interés compuesto que, además, se capitaliza de instante a instante.
+
 ¿Es legal esto? Sí, claro. Siempre y cuando la llamada *tasa efectiva* no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.
 
 Y siempre y cuando la persona a cuyo favor se generan tales intereses no sea un banco o financiera. 
@@ -98,5 +100,3 @@ La _delta_ minúscula es el ratio de interés _cambiante_ por decirlo de una for
 
 Esta fórmula nos parece familiar ya... Sí, ¿no es la fórmula del interés francés?
 
-
----
