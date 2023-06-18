@@ -3,7 +3,7 @@ title: "Interés compuesto"
 description: "Introducción a la siguiente entrada"
 draft: false
 tags: ["interés", "compuesto", "interés compuesto contínuo", "ICC", "matemáticas"]
-date: 2023-03-07
+date: 2023-06-17
 ---
 
 ## Interés compuesto
