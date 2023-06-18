@@ -7,9 +7,6 @@ draft: false
 date: 2023-01-09
 ---
 
-
-## Determinación del monto del juicio. 
-
 Primariamente, el monto base para el justiprecio es el capital reclamado.
 
 Pero la demanda es por ese monto y por sus intereses, los cuáles no
