@@ -6,15 +6,13 @@ tags: ["interés", "compuesto", "interés compuesto contínuo", "ICC", "matemát
 date: 2023-06-17
 ---
 
-## Interés compuesto
-
 Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:
 
 > 695. ANATOCISMO: NOCIÓN.- ES la capitalización de los intereses, o interés compuesto, de modo que agregándose tales intereses al capital originario pasan a redituar nuevos intereses.
 
 Esto es notable desde la misma notación de la fórmula. La del interés simple es:
 
-`$ I = C \times \Delta t \times ratio $`
+$$ I = C \times \Delta t \times ratio $$
 
 Casi intuitivamente conocemos que esos valores constantes ---salvo el tiempo que pasa--- van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:
 
