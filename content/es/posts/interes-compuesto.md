@@ -30,7 +30,7 @@ $$
 ratio = 33%
 $$
 
-![IntSimple](/posts/img/iss.png)
+![IntSimple](https://bafkreig7rjd4wbrtcbfhmunorxkvywbn4ktryvqmdy72kjgafelwyrdjyq.ipfs.nftstorage.link/)
 
 Una ecuación de primera grado siempre genera rectas.
 
@@ -70,7 +70,7 @@ $$
 V_f = 100 \times 6.32 = 632
 $$
 
-![Interes](/posts/img/compuesto.png)
+![Interes Compuesto](https://bafkreig7rjd4wbrtcbfhmunorxkvywbn4ktryvqmdy72kjgafelwyrdjyq.ipfs.nftstorage.link/)
 
 O sea que el llamado "interés francés" es en realidad un interés compuesto que, además, se capitaliza de instante a instante.
 
