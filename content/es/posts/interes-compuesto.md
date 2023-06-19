@@ -30,7 +30,7 @@ $$
 ratio = 33%
 $$
 
-![IntSimple](https://bafkreig7rjd4wbrtcbfhmunorxkvywbn4ktryvqmdy72kjgafelwyrdjyq.ipfs.nftstorage.link/)
+![IntSimple](https://bafkreiesrcvo2lgml5crzvgzglwyxtxf3fgw2o7ceddxlj7o3htbbtggvi.ipfs.nftstorage.link/)
 
 Una ecuación de primera grado siempre genera rectas.
 
