@@ -7,7 +7,7 @@ date: 2023-03-14
 ---
 
 
-## ¿Qué es acción causal? 
+# ¿Qué es acción causal? 
 
 Bien, aparentemente es la acción que no es cambiaria pero que sin embargo de alguna u otra manera incluye dentro de la documental presentada algún título valor que o ha dejado de ser un título valor o bien no es un título valor. En ambos casos, no es un título valor porque algo que fué _x_ no es _x_ y algo que no ha llegado a ser _x_ no es _x_.
 
@@ -42,4 +42,3 @@ En ambos casos estoy sujeto a las condiciones de la acción cambiaria.
 
 Las demás acciones que no son esas acciones no es deseable que se llama _acciones causales_ en tanto cuando en nada se diferencia de cualquiera otra acción ordinaria.
 
----
