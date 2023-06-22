@@ -28,6 +28,7 @@ Así que tenemos tres artículos dentro del Código Procesal civil que se refier
 # Entonces vi al Cordero romper el primer sello.
 
 
+
 Entonces, los supuestos de la caducidad de instancia son, además del plazo de seis meses, los requisitos que se señalan como:
 
 
@@ -103,4 +104,3 @@ a) La interpretación especificadora tiene lugar cuando las consideraciones prag
 
 Se necesita conocer para qué existe el instituto de la caducidad instancia para entender si he obrado bien.
 
----

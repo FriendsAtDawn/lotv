@@ -98,3 +98,4 @@ La _delta_ minúscula es el ratio de interés _cambiante_ por decirlo de una for
 
 Esta fórmula nos parece familiar ya... Sí, ¿no es la fórmula del interés francés?
 
+

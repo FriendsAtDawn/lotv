@@ -17,9 +17,9 @@ enableRobotsTXT = true
 
 [menu]
 
-  [[menu.main]]
-    identifier = 'buscador-de-jurisprudencia'  
-    name =  'buscador-de-jurisprudencia' 
+[[menu.main]]
+    identifier = 'jurisprudencia'
+    name = 'buscador de jurisprudencia'
     url = 'https://rcsj.0007407.xyz'
     weight = 110
   [[menu.main]]
