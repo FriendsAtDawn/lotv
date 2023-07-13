@@ -19,13 +19,13 @@ Por supuesto que  hay gente que no está de acuerdo. [Lo que dice este señor es
 
 Pero si ha llegado al nivel de los americanos, es que necesita usar otro diseño, como por ejemplo ```git```. Quiere decir que usted y su grupo han pasado a necesitar otras herramientas.
 
-No MensajeroX. MensajeroX es bueno para tu vida sentimental ---o malo para él---, es bueno para recibir spam y en general es bueno para perder el tiempo.
+No MensajeroX. MensajeroX es bueno para su vida sentimental ---o malo para él---, es bueno para recibir spam y en general es bueno para perder el tiempo.
 
 Pero nadie quiere perder el tiempo en el trabajo, ¿no?
 
 Un email es algo que dura: mucha gente hara _backups_ del mismo, si se trata de una lista de correos puede durar años en internet. Otras persona, de otros sitios pueden encontrar en él información y manera en que las decisiones son tomadas.
 
-Si no conoce el servicio, [te dejo un link](https://explained-from-first-principles.com/email/).
+Si no conoce el servicio, [le dejo un link](https://explained-from-first-principles.com/email/).
 
 Nadie teme a la muerte, todos temen hacer el ridículo. ¿Quiere saber Ud. señor Presidente como se ve revisando su teléfono frente a los miembros de su Directorio? Como una chica de 14 con rodete. Enfatizo el rodete.
 
