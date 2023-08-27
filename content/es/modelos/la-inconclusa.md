@@ -12,3 +12,4 @@ Demanda que tuve que abandonar. Mis colegas compañeros no se sentían cómodo c
 
 {{< embed-pdf url="https://bafybeigrvceknm3kmj3ijjp4mp6bm4mqhrcb4pfh5l26q4f3daoajgz5ju.ipfs.nftstorage.link/" >}}
 
+{{< graphcomment >}}

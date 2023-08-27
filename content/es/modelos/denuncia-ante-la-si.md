@@ -262,3 +262,5 @@ estima.
 Wilson Villalba.
 
 [^1]: Ya he visto una buena cantidad de resoluciones con esta singularidad. ¿Se trata de que se estima que como la la firma electrónica es muy difícil de falsificar ya no hace falta la atestación de la Actuaria? Pero la atestación de la Actuaria nunca tuvo como objeto validar firma alguna, sí dar testimonio de que se fue puesta en su presencia. Que la firma electrónica se puede falsear ya estába fuera del _scope_ de la denuncia.
+
+{{< graphcomment >}}

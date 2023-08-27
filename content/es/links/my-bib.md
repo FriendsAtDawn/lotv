@@ -21,3 +21,5 @@ demostrar su autenticidad e integridad.
 
 
 [^1]: Tengo que hablar luego de qué es lo que entendemos por documento electrónico. Una cinta magnetofónica grabada hace mucho tiempo que se lo acepta como prueba... y es electrónico. Y al final, nada existe el universo que no lo sea: todos estamos compuesto de átomos y cualquiera que haya terminado la secundaria sabe que se diferencias entre ellos por la cantidad de protones, neutrones, electrones, etc.
+
+{{< graphcomment >}}

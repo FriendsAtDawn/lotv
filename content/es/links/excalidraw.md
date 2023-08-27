@@ -17,3 +17,5 @@ Hacer uno no tan perfecto, como de mano alzada, creo que es mejor.
 Exporta a SVG  y a PNG y aunque puede ser que el primero suene un poco extraño a muchos, el segundo no.
 
 Se podría decir que ```excd```,  deforma de propósito  los trazos que hacen a  los gráficos,  y uno podría pensar si eso es bueno.  Yo tengo para mí  que  los gráficos  que parecen hecho a mano  están como inacabados,  no totalmente resueltos. Y que de alguna manera eso empuja al lector  a acercarse más  al mismo  que un  dibujo hecho con trazos coincidentes  y ya resueltos.  En este segundo caso,  entiendo que la aproximación de la persona que ve la coincidencia, no será la misma, debido a que  su participación  ya no es necesaria. 
+
+{{< graphcomment >}}
