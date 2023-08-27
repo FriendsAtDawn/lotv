@@ -35,7 +35,7 @@ Como es natural en las obligaciones de plazo cierto, en el principal ya se encue
 Así que tenemos un _valor final_ y cierta cantidad de cuotas 72. Y el ratio de los intereses que son del orden de 21% anual.
 
 ¿Cuánto es lo que en realidad recibió este [Antonio](https://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=merchantvenice&Scope=entire&pleasewait=1&msg=pl)?.
- 
+
 Usemos la fórmula del interés compuesto contínuamente; es la misma que la del _interés francés_.
 
 $$
@@ -78,5 +78,4 @@ Yo no sé de esas cosas. Me parece bueno que la gente acceda a creditos baratos 
 
 En cuanto lo demás, no se puede <<arreglar>> las tasas de interés. No se puede <<arreglar>> la economía, ni el dinero, ni el Estado, ni el Derecho... Porque forman parte de una larga cadena de explotación. Un sistema en el cual, queramos o no, confiamos todos.
 
-
----
+{{< graphcomment >}}

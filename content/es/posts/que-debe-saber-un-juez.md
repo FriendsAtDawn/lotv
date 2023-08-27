@@ -44,7 +44,7 @@ $$
 Donde:
 |       |     |                                                                |
 | ----- | --- | -------------------------------------------------------------- |
-| $$a$$ | ,   |es el término amortizativo del préstamo, en este caso, meses.   | 
+| $$a$$ | ,   |es el término amortizativo del préstamo, en este caso, meses.   |
 | $$C$$ | ,   |es el capital prestado.                                         |
 | $$i$$ | ,   |es el tipo de interés del préstamo.                             |
 | $$n$$ | ,   |es el número de meses que dura el préstamo.                     |
@@ -80,7 +80,7 @@ _Ps:_ volvió a caer, este es el link del [cache de google](http://webcache.goog
 
 
 
-   
+   {{< graphcomment >}}
 
 
 

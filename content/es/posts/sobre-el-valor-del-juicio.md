@@ -58,7 +58,7 @@ Suma líquida, pues, no difiere mucho conceptualmente de una
 liquidable.-
 
 $$
-\mbox{suma líquida} \approx \mbox{suma liquidable} 
+\mbox{suma líquida} \approx \mbox{suma liquidable}
 $$
 
 En el caso que me ocupaba, el documento presentado reclamaba intereses del
@@ -115,7 +115,7 @@ etc.
 Los detalles de la Bibliografía están en: [derecho.bib](https://bafkreifcdukgode5jwmgqvesjvovtrqfkf2ondculuxmnj7deoqlkubjwm.ipfs.nftstorage.link/)
 
 
-
+{{< graphcomment >}}
 
 
 

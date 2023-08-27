@@ -46,7 +46,7 @@ Es decir, la justicia está compelida a dar cada uno la parte que le corresponde
 
 Propone siempre un monto que equidista del total tanto para uno como para otro: ambos se benefician o perjudican de igual manera. Si son dos las partes y concurren con un derecho similar, digamos:
 
-¿Pero qué si no tenemos sino la primera porción? ¿Qué razón aplicar? 
+¿Pero qué si no tenemos sino la primera porción? ¿Qué razón aplicar?
 
 Allí es donde Torres K. señala: si no conocemos sino la porción primera la porción la mayor porción será tal que la suma de ambas porciones represente la mayor. Hipótesis, que si pudiéramos enunciar de manera genérica, podríamos recurrir en un montón de casos imagino.
 
@@ -61,8 +61,7 @@ Entonces, claro, no solucionamos el problema porque ahora **el mayor monto** sim
 
 He aquí un escrito [reciente](https://bafybeibmndx5knezrt4hpj2l3bewi2gktwqal4gf2jbbdunj6wx5wv4ug4.ipfs.nftstorage.link/).
 
-
----
+{{< graphcomment >}}
 
 
 

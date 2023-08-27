@@ -24,26 +24,26 @@ La Escribana me miraba con desconfianza mientras copiaba y pegaba el texto en su
 Envié una primera misiva, luego otra.
 
 Contacté con una agrimensor del ente poco despues de enviar la segunda:
- 
+
 ---
 
 > Señor Ministro
->	
+>
 > ```placeholder```
->	
+>
 > Ministerio de Educación y Ciencias
->	
->	
+>
+>
 > *Ref: Reiterar oferta de Donación de un inmueble al Ministerio de
 	Educación y Ciencias con el fin de que se construya una escuela. Exp: Nº
 	227.471 - 2022*
->	
->	
+>
+>
 > Su Excelencia:
->	
+>
 > Tengo el placer de dirigirme al Sr. Ministro a fin de **reiterarle**
 	cuanto sigue:
-> 
+>
 > La señora Ciríaca María Cabañas Adorno me ha otorgado poder especial, el
 	que acompaño a esta presentación, para donar al Ministerio de Educación
 	y Ciencias con RUC Nº 80005190-4 con dirección en 15 de Agosto entre
@@ -55,15 +55,15 @@ Contacté con una agrimensor del ente poco despues de enviar la segunda:
 	Karanda'y ty de contar con una Escuela y que el Ministerio de Educación
 	de Ciencias ha manifestado que no cuenta con un terreno para levantar
 	tal edificio por lo que solo podría hacerlo de contar con una donación.
->	
+>
 > Dado que la señora Ciríaca María Cabañas Adorno tiene una propiedad,
 	decidió donar una parte de ella con la condición de que el Ministerio de
 	Educación y Ciencias instale allí una escuela dentro del plazo de un año
 	cuanto más.
->	
+>
 > La urgencia es real: la Supervisión Educacional Área 17-2 de Fuerte
 	Olimpo, Alto Paraguay, mediante el dictamen Nº 1/200 ha expresado que:
->	
+>
 > > <<Dando respuesta a la petición de los padres de la apertura de
 > > aulas extensivas para sus hijos en edad escolar del primero al sexto
 > > grados de la EEB en la zona denominada Karanda'yty, distrito de Fuerte
@@ -112,11 +112,11 @@ halla atravesando un momento financiero inestable que ha devenido en
 	embargos sobre el total de su terreno, los que declara, desde ya, que,
 	según el Código Civil, no se transfiere ni en todo, ni en parte sobre la
 	porción que habrá de ser donada y así se hará constar en la escritura.
->	
+>
 > La porción a donarse está delimitada dentro de otra mayor de su
 	propiedad y ya cuenta con referenciación geoposicional de hecho, el
 	informe correspondiente formará parte del texto de la donación.
->	
+>
 > El objeto de la donación que habrá de hacerse consiste en una superficie
 	de 5,00 Has (cinco hectareas). Esta fracción menor, está delimitada
 	dentro de otra mayor propiedad de la señora Ciriaca María Cabañas
@@ -133,7 +133,7 @@ halla atravesando un momento financiero inestable que ha devenido en
 	ocupación, propiedad del señor Roberto Eaton Kent). Lado 34 - 15 con
 	rumbo S 01º 45' 56" E mide 3609,86 m y linda con la fracción ocupada
 	de Julio Zoilán. Superficie del polígono 974 Has 5786 m^2 6572 cm^2.
->	
+>
 > Referencia del inmueble: <<El valor del mojón Nº 34 de la presente
 	mensura fue determinado con el método de medición GPS y tiene
 	coordenadas planas UTM del sistema de proyecciones WGS84 N=7 638 239,805
@@ -144,14 +144,14 @@ halla atravesando un momento financiero inestable que ha devenido en
 	encuentra a una distancia de 3609.86 m con rumbo N 01º 45' 57" W del
 	mojón número 34 que fuera determinado por el método anteriormente
 	mencionado.>>
->	
+>
 > Gracias a estos datos es posible delimitar con exactitud y desde ya el
 	terreno que será objeto de la donación.
->	
+>
 > Naturalmente que acompañaremos y coadyuvaremos los trabajos que por
 	cualquier motivo necesite el Ministerio de Educación y Ciencias y desde
 	ya solicitamos que se los realice.
->	
+>
 > Sin otro particular y esperando que esta oferta tenga buena acogida y
 	reciba una pronta atención, me despido del señor ```placeholder```
 	con muestras de mi más alta estima.

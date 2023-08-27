@@ -18,7 +18,7 @@ $$
 
 Casi intuitivamente conocemos que esos valores constantes ---salvo el tiempo que pasa--- van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:
 
-Así si partimos desde un 
+Así si partimos desde un
 
 $$
 C = 100
@@ -76,7 +76,7 @@ O sea que el llamado "interés francés" es en realidad un interés compuesto qu
 
 ¿Es legal esto? Sí, claro. Siempre y cuando la llamada *tasa efectiva* no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.
 
-Y siempre y cuando la persona a cuyo favor se generan tales intereses no sea un banco o financiera. 
+Y siempre y cuando la persona a cuyo favor se generan tales intereses no sea un banco o financiera.
 
 La orgánica del BCP decía antes:
 
@@ -94,8 +94,8 @@ $$
 \delta = n \mbox{ln} \left( 1 + \frac{r}{n} \right),
 $$
 
-La _delta_ minúscula es el ratio de interés _cambiante_ por decirlo de una forma, y _r_ es el interés pactado y _n_ su frecuencia. 
+La _delta_ minúscula es el ratio de interés _cambiante_ por decirlo de una forma, y _r_ es el interés pactado y _n_ su frecuencia.
 
 Esta fórmula nos parece familiar ya... Sí, ¿no es la fórmula del interés francés?
 
-
+{{< graphcomment >}}

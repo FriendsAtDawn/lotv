@@ -25,7 +25,7 @@ En este caso la relación de los hechos, evita el problema de la causalidad.
 
 Y es mejor que termine acá porque la discusión prosigue por caminos bastante más complicados y todos conocen la **causa** final de Tomás de Aquino así que en la _edad oscura_ ya se usaba causa de la manera en la que lo usamos hoy.
 
-Si se fijan, Aquino pensaba que si eliminamos un hecho no puede existir el otro. Esto es una simplificación, claro, y es lo que hoy 
+Si se fijan, Aquino pensaba que si eliminamos un hecho no puede existir el otro. Esto es una simplificación, claro, y es lo que hoy
 
 Lo dicho anteriormente es sólo con el fin de relatar que tan antiguo es el tema y que tan complejo se puede volver: les relaté el _Pablo Honey_ de la cuestión, no dejen que llegue al _Kid A_.
 
@@ -45,7 +45,7 @@ El problema de causa y efecto tiene una gran incidencia en el área legal. En el
 
 En el derecho penal, por ejemplo, la fiscalía debe demostrar más allá de una duda razonable que la acción del acusado causó el daño o la lesión infligida a la víctima. Esta conexión causal entre la conducta del acusado y la consecuencia resultante es esencial para determinar su culpabilidad o inocencia.
 
-De manera similar, en el derecho civil, establecer la causa y el efecto es de suma importancia para poder determinar la responsabilidad y otorgar compensaciones. El demandante debe demostrar que la acción negligente o dañina del demandado causó el daño que sufrió. Esto requiere probar una conexión causal directa entre la conducta del demandado y las lesiones o pérdidas resultantes. Pero claro, no tan terminantemente como en el área penal donde la causalidad parece ser el asunto siempre. 
+De manera similar, en el derecho civil, establecer la causa y el efecto es de suma importancia para poder determinar la responsabilidad y otorgar compensaciones. El demandante debe demostrar que la acción negligente o dañina del demandado causó el daño que sufrió. Esto requiere probar una conexión causal directa entre la conducta del demandado y las lesiones o pérdidas resultantes. Pero claro, no tan terminantemente como en el área penal donde la causalidad parece ser el asunto siempre.
 
 En algunos casos, el problema de causa y efecto en el ámbito legal puede ser complejo. Puede haber múltiples factores o eventos involucrados, y determinar qué acciones específicas condujeron al daño puede resultar desafiante.
 
@@ -55,7 +55,7 @@ En resumen, en el área legal, el análisis de causa y efecto es crucial para de
 
 ## Shorcuts.
 
-En el mundo del derecho, existen varios métodos y principios que se utilizan para abordar el problema de la causa y el efecto y llegar a una conclusión. Estos métodos tienen como objetivo asegurar un análisis justo y exhaustivo de las pruebas y evitar resultados injustos o arbitrarios. El Juez debe resolver la causa y no puede esperar a que se resuelva si el mundo exterior existe o no. 
+En el mundo del derecho, existen varios métodos y principios que se utilizan para abordar el problema de la causa y el efecto y llegar a una conclusión. Estos métodos tienen como objetivo asegurar un análisis justo y exhaustivo de las pruebas y evitar resultados injustos o arbitrarios. El Juez debe resolver la causa y no puede esperar a que se resuelva si el mundo exterior existe o no.
 
 1. Carga de la prueba: La carga de la prueba es el requisito impuesto a la parte que presenta una reclamación para proporcionar pruebas suficientes que respalden su afirmación. En la mayoría de los sistemas legales, la carga de la prueba recae en la parte que alega una conexión causal. Es responsabilidad de dicha parte presentar pruebas que establezcan una relación causal más probable que improbable entre la acción y el efecto. El estándar de prueba puede variar según el tipo de caso (penal o civil) y la jurisdicción.
 
@@ -94,3 +94,5 @@ En  el campo de las matemáticas, el problema la de causa y el efecto se aborda 
 [^1]: "The Oxford Handbook of Causation", editado por Helen Beebee, Christopher Hitchcock y Peter Menzies - Este manual ofrece una visión completa de la filosofía y la ciencia de la causalidad, abarcando diversas teorías, debates y aplicaciones.
 
 [^2]: "Causalidad: A Very Short Introduction" de Stephen Mumford - En esta concisa introducción, Mumford explora los conceptos fundamentales de la causalidad, abordando cuestiones clave y examinando diferentes enfoques filosóficos de la causalidad.
+
+{{< graphcomment >}}
