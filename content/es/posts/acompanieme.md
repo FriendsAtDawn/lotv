@@ -2,7 +2,7 @@
 title: "Acompáñeme a conocer esta triste historia."
 description: "Ó El mendigo con Escalade pero sin lata."
 tags: ["mecdigo", "poder para vender", "nota ministerial", "state-of-the-times"]
-draft: true
+draft: false
 date: 2023-0-02
 ---
 
