@@ -18,10 +18,20 @@ enableRobotsTXT = true
 [menu]
 
 [[menu.main]]
-    identifier = 'jurisprudencia'
-    name = 'buscador de jurisprudencia'
+    identifier = 'servidor-1'
+    name = 'buscar jurisprudencia: servidor 01'
     url = 'https://rcsj.0007407.xyz'
     weight = 110
+[[menu.main]]
+    identifier = 'servidor-2'
+    name = 'servidor 02 '
+    url = 'https://firmus.site/recoll/'
+    weight = 120
+[[menu.main]]
+    identifier = 'servidor-3'
+    name = 'servidor 03'
+    url = 'https://2nd.firmus.site/recoll/'
+    weight = 130
   [[menu.main]]
     identifier = 'villalba.is'
     name = 'villalba.is'
