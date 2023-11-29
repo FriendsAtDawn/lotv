@@ -92,7 +92,7 @@ enableRobotsTXT = true
   post_content_classes = "athelas"
   body_classes = "times"
   feature_image = "/images/cover.jpg"
-  mainSections = ['posts', 'modelos']
+  mainSections = ['posts', 'modelos', 'plra']
 
 [[params.ananke_socials]]
   name = "telegram"
