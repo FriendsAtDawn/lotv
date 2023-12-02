@@ -5,4 +5,4 @@ featured_image: '/images/cover.jpg'
 ---
 
 
-Notas sobre ejercer la profesión de abogado en Asunción, Paraguay.
+Buscador de Jurisprudencia de la CSJ. Notas sobre ejercer la profesión de abogado en Asunción, Paraguay.
