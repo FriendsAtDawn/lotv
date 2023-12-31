@@ -98,3 +98,8 @@ enableRobotsTXT = true
   name = "telegram"
   url = "https://t.me/habermas"
 
+  [[params.ananke_socials]]
+  name = "bmc-full-logo"
+  url = "https://www.buymeacoffee.com/isvillalba"
+
+
