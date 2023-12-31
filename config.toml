@@ -99,7 +99,7 @@ enableRobotsTXT = true
   url = "https://t.me/habermas"
 
   [[params.ananke_socials]]
-  name = "bmc-full-logo"
+  name = "bmc-logo"
   url = "https://www.buymeacoffee.com/isvillalba"
 
 
