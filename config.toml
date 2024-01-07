@@ -17,11 +17,11 @@ enableRobotsTXT = true
 
 [menu]
 
-[[menu.main]]
-    identifier = 'servidor-1'
-    name = 'buscar jurisprudencia: servidor 01'
-    url = 'https://rcsj.0007407.xyz'
-    weight = 110
+#[[menu.main]]
+#   identifier = 'servidor-1'
+#   name = 'buscar jurisprudencia: servidor 01'
+#   url = 'https://rcsj.0007407.xyz'
+#   weight = 110
 [[menu.main]]
     identifier = 'servidor-2'
     name = 'servidor 02 '
