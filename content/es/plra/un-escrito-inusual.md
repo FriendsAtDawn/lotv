@@ -1,6 +1,6 @@
 ---
 title: "Nota Inusual"
-date: 2024-02-02
+date: 2023-10-07
 tags: ["nota", "tsje", "no redactado", "plra", "modelos"]
 draft: false
 description: "Summary of the post"
