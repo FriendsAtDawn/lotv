@@ -1,6 +1,6 @@
 title = "Wilson Villalba"
 baseURL = "blog.villalba.is"
-languageCode = "es"
+languageCode = "en-us"
 theme = ["hugo-embed-pdf-shortcode", "ananke"]
 enableInlineShortcodes = true
 resourceDir = "../resources"
@@ -70,10 +70,11 @@ enableRobotsTXT = true
     contentDir = "content/es"
   # languageDirection = 'rtl' for Right-To-Left languages
 
-  #[languages.fr]
-  #  title = "Ananke Fr"
-  #  weight = 2
-  #  contentDir = "content/fr"
+  [languages.en]
+    title = "Wilson Villalba"
+    description = "Blog"
+    weight = 2
+    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
