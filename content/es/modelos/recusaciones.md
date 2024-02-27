@@ -10,10 +10,9 @@ date: 2024-02-12
 
 {{< embed-pdf url="https://meridian.0007407.xyz/Recusacion.pdf/" >}}
 
-- {{< embed-pdf url="https://bafybeie27ygfdnp6uh5efxihcf7qwhet7misjbmdl3r6qrzgfasg4f6gtm.ipfs.nftstorage.link/" >}}
 
-**Otros**
+**Otros Similes**
 
-- [Secretaría Extraliminatada ó _Eu nao sei exatamente como foi que un belo dia quem brincaba de princesa acostumose a fantasia_](https://bafybeiawlxlffqyp2y7jn2bjqgz23nfdhqr6jmt4jir6hmj5bxnuiddvre.ipfs.nftstorage.link/)
+{{< embed-pdf url="https://bafybeiawlxlffqyp2y7jn2bjqgz23nfdhqr6jmt4jir6hmj5bxnuiddvre.ipfs.nftstorage.link/" >}}
 
 {{< graphcomment >}}
