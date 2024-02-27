@@ -6,14 +6,18 @@ tags: ["modelos", "escritos", "recusación"]
 date: 2023-02-12
 ---
 
+{{< embed-pdf url="https://bafybeie27ygfdnp6uh5efxihcf7qwhet7misjbmdl3r6qrzgfasg4f6gtm.ipfs.nftstorage.link/" >}}
 
-##### Incidente de nulidad de intimación de pago.
+
+
+
+Incidente de nulidad de intimación de pago.
 
 {{< embed-pdf url="https://bafybeiclyzcvvpgeeks5tcbnkpqxgcwvvk4vz5zx2b55yew4un5nbriwfa.ipfs.nftstorage.link" >}}
 
 ---
 
-### Caducidad de Instancia.
+Caducidad de Instancia.
 
 {{< embed-pdf url="https://bafybeihjg55s3zqrahbelmqpwabkf3mkqnu3ujyxektgqu6xv7ogusv53u.ipfs.nftstorage.link/" >}}
 
@@ -21,7 +25,7 @@ Si se quiere averiguar más sobre el contexto de este segundo escrito, el mismo 
 
 ---
 
-### Administrativo.
+Administrativo.
 
 >Nota: Aunque está redactada, el siguiente escrito fue presentado por un colega ante la Sedeco. Me mostró el expediente. Los Consumidores, que cuentan con una <<Ley Que Vino del Mercosur>> cuentan con una herramienta poderosa. La ley del Defensa del Consumidor. Pero no tienen acción colectiva. Sólo la persona dañada puede usarlo.
 
