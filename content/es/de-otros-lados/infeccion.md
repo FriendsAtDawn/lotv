@@ -1,7 +1,7 @@
 ---
 title: "Cómo lidiar con los pdfs infectados del Judisof(TM)."
 description: "Guía de sobrevivencia."
-draft: false
+draft: true
 date: 2024-02-07
 ---
 
