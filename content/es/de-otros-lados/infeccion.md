@@ -24,9 +24,9 @@ Depende de que se entienda por virus. Tiene código sospechoso o decididamente m
 
 No, ---basado en mi experiencia--- son pocos los ```pdfs``` infectados considerando el gran caudal de ellos. Pero no es aventurado pensar que su numero crece. De hecho el archivo que aquí se exhibe como muestra parece que se duplico en otro; porque aun cuando es de un expediente que contiene una petición mía, estaba adosado a otra lista. Como conocemos muy poco de la manera en que trabaja el Judisoft[^1], ello podría tratarse de otro tipo de error.
 
-Carpeta con el [archivo original y ´´´timestamps´´´](https://bafkreigzz3vca7u52wqaidfi3mjdk72mji3aouqk3gj74bl75bhe6jfcli.ipfs.nftstorage.link/): Está allí al solo efecto de la prueba, si van a abrir algún pdf, mejor abrir el original que se halla en:[https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&o=b](https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&o=b).
+Carpeta con el [archivo original y _timestamps_](https://bafybeiau7f4waqhoinfba5gci2ecd3hfqxjopoykvfi6cc4sgcmfihyiue.ipfs.nftstorage.link/) Está allí al solo efecto de la prueba, si van a abrir algún pdf, mejor abrir el original que se halla en:[https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&o=b](https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&o=b).
 
-El análisis [hybrid-analisys.com](https://hybrid-analysis.com/sample/d9ceea207e9dd5a0040ca8db12357f4c4a3607520ad993fe057fe84e4f24a25a/65dbb8cb7eaf4029bd001d5a)
+El análisis [hybrid-analisys.com](https://hybrid-analysis.com/sample/d9ceea207e9dd5a0040ca8db12357f4c4a3607520ad993fe057fe84e4f24a25a/65dbb8cb7eaf4029bd001d5a). Nótese que hay archivos nombrados como "legítimos" recursos de Adobe. Y hay otros que no y hay otros que definitivamente son programas, vuelvo a subrayar, "legítimos". Es una ensalada varia a veces difícil de seguir por lo que requiere paciencia leer todos los documentos.
 
 ### ¿Son peligrosos, debo tener cuidado?
 
