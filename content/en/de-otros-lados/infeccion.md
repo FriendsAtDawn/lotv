@@ -1,7 +1,7 @@
 ---
 Title: "How to deal with infected Judisoft(TM) pdfs."
 Description: "Survival guide."
-draft: false
+draft: true
 date: 2024-02-07
 ---
 
