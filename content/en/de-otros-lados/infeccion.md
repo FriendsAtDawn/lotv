@@ -1,7 +1,7 @@
 ---
 Title: "How to deal with infected Judisoft(TM) pdfs."
 Description: "Survival guide."
-draft: true
+draft: false
 date: 2024-02-07
 ---
 
@@ -13,19 +13,21 @@ It is not my intention to discredit Judisoft(TM) with these brief lines, which e
 
 It is because I have intensive dealings with all the courts and intensive dealings with only a handful of lawyers that I refer more to documents emanating from the courts than to those filed by colleagues.  It is a question of frequency.
 
-I have never received an infected pdf uploaded by a colleague. In that sense, I don't know. Judisoft(TM) seems to have more control.
+I have never received an infected pdf uploaded by a colleague. In that sense, I don't know. Judisoft(TM) seems to have more control when someone upload a *pdf* from his *front-end*. However, all the files infected was coming from the source.
 
 ## Preliminaries.
 
 ### Are Judisoft files infected with viruses?
 
-It depends on what you mean by virus. It has suspicious or outright malicious code. But both I and more authoritative sites could give little information about it except that it "does something" and definitely takes up space in the traffic.
+It depends on what you mean by virus. It has suspicious or outright malicious code. But authoritative sites could give little information about it except that it "does something" and definitely takes up space in the traffic.
 
-TODO: I will copy an example below. There will be a link for the pdf and it's sums, you won't want to check it yourself. Instead, you will check the corresponding link from the analysis page.
+Folder containing the [original file and *timestamps*](https://bafybeiau7f4waqhoinfba5gci2ecd3hfqxjopoykvfi6cc4sgcmfihyiue.ipfs.nftstorage.link/) It is only there for testing purposes, if you want to open any *pdf*, it is better to open the original, which is at:[https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&o=b](https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&o=b).
+
+El análisis [hybrid-analisys.com](https://hybrid-analysis.com/sample/d9ceea207e9dd5a0040ca8db12357f4c4a3607520ad993fe057fe84e4f24a25a/65dbb8cb7eaf4029bd001d5a). Note that there are files that are labeled as "legitimate" Adobe resources. And there are others that are not, and there are others that are definitely, I repeat, "legitimate" programs. It's a mixed bag, sometimes difficult to follow, so patience is needed to read all the documents.
 
 ### Do they all have it, or even the vast majority?
 
-No, --- in my experience --- very few ```pdfs``` are infected, given the sheer volume of them. But it is not unreasonable to think that their number is growing. In fact, the file shown here as an example seems to have been duplicated in another file; although it came from a file containing a query of mine, it was attached to another list. As we know very little about how Judisoft(TM) works, this could be another kind of bug.
+No, --- in my experience --- very few *pdfs* are infected, given the sheer volume of them. But it is not unreasonable to think that their number is growing. In fact, the file shown here as an example seems to have been duplicated in another file; although it came from a file containing a query of mine, it was attached to another list. As we know very little about how Judisoft(TM) works, this could be another kind of bug.
 
 ### Are they dangerous, should I be careful?
 
@@ -43,7 +45,7 @@ You could be up to no good if nobody knows what these _scripts_ are doing.
 
 Well, let's see.
 
-## The PDF/A plan --- Or: I love it when a plan comes together!
+## The PDF/A plan --- Or: I love it when a plan doesn't comes together!
 
 According to the Resolution on the e-Expedient, when we upload a file from our computer, it is re-encoded into PDF/A.
 
@@ -53,25 +55,17 @@ As far as the judges are concerned, it is impossible to even think of the same p
 
 ## The judges were careless?
 
-If I sign a ```pdf``` (who would think of signing a ```pdf```? Someone who came up with the idea that text files are not sexy enough) with my electronic signature, probably not certified, the date is taken from [```Sectigo```](https://sectigo.com). If judges do it, they... they take it from their PC. INTN has an NTP server.
+If I sign a *pdf* (who would think of signing a *pdf*? Someone who came up with the idea that text files are not sexy enough) with my electronic signature, probably not certified, the date is taken from [**Sectigo**](https://sectigo.com). If judges do it, they... they take it from their PC. INTN has an NTP server.
 
 The embedded code is visible to the naked eye, but the Windows antivirus doesn't detect it.
 
 So no. It's not their fault.
 
-## My whispered sorrowed talk.
-
-But I'm safe from them. I've had problems with Paperless-ngx detecting them. I don't use very popular systems, and the codes I've seen so far are for the Windows environment.
-
-Nevertheless, I decided to remove them from my archive, because it is very easy for someone in their daily life to send some "SD" via email and infect someone else's PC that way.
-
-At least that's what I thought. That I was safe. But today I checked the ```dns``` traffic in the office... and no, my pdfs have been ```calling home``` for a while, it's just that after one site made too many requests and downloaded about 1Gb of I don't know what, the server blocked that traffic and sent me a message. The kind I never read.
-
 ## Blocking servers is not the answer.
 
-I don't have the knowledge to know what each one does, but it wouldn't do any good as I've already identified about 5 different ones. Bah. I didn't recognise it. I hi
+I don't have the knowledge to know what each one does, but it wouldn't do any good as they change or mutated or whatever.
 
-I can't tell you that the solution is to block ```dns``` requests. And I don't think everyone has a ```dns``` server running in their office. And even if they did, what good would it do? These malicious sites mutate every day.
+I can't tell you that the solution is to block *dns* requests. And I don't think everyone has a *dns* server running in their office. And even if they did, what good would it do? These malicious sites mutate every day.
 
 ## ¿Y?
 
@@ -79,11 +73,11 @@ I took these emergency steps
 
 - Disable WebRTC: you can do this with an extension that is available for a number of browsers and in a number of flavours.
 
-- Do not allow any ```pdf``` files to be displayed in the browser.
+- Do not allow any *pdf* files to be displayed in the browser.
 
 - Keep the local database out of reach of the internet -- if possible; the internet is everywhere.
 
-I have had infected ```pdfs`` for printing and scanning. It's the only thing I can do, although I know it's a long shot.
+I have had infected *pdfs* for printing and scanning. It's the only thing I can do, although I know it's a long shot.
 
 I can't do what some sites recommend:
 
