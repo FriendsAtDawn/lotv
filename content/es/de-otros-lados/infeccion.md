@@ -5,6 +5,7 @@ draft: false
 date: 2024-02-07
 ---
 
+![](https://img.shields.io/badge/document_v.-0.5-blue)
 
 Esta entrada no quiere desacreditar al Judisoft(TM). La implementación del sistema es de lejos el salto mas importante que ha tenido el acceso a la justicia y contribuye de manera grandiosa a abaratar los costos del proceso. En todo sentido es un éxito.
 
