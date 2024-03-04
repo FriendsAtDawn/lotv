@@ -60,9 +60,9 @@ En cuanto a los juzgadores imposible siquiera pensar en el mismo proceso ya que 
 
 ## ¿Descuido de los jueces?
 
-Cuando yo firmo  un ´´´pdf´´´ (¿a quien se le ocurre firmar un pdf?: a alguien que se hizo la idea de que los archivos de texto no son lo suficientemente sexy[^1]) con mi firma electrónica probablemente-no-certificada, la fecha se toma de [```Sectigo```](https://sectigo.com). Cuando los jueces lo hacen lo hacen, ...lo toman de su pc. El INTN tiene un servidor NTP. No sé si la gente syncroniza la hora de su pc con él y no lo creo.
+Cuando yo firmo  un ´´´pdf´´´ (¿a quien se le ocurre firmar un pdf?: a alguien que se hizo la idea de que los archivos de texto no son lo suficientemente sexy[^2]) con mi firma electrónica probablemente-no-certificada, la fecha se toma de [```Sectigo```](https://sectigo.com). Cuando los jueces lo hacen lo hacen, ...lo toman de su pc. El INTN tiene un servidor NTP. No sé si la gente syncroniza la hora de su pc con él y no lo creo.
 
-[^1]: Im too sexy for my text, too sexy for my text, more sexy than I expect.
+[^2]: Im too sexy for my text, too sexy for my text, more sexy than I expect.
 
 Así que, no. No es descuido de ellos.
 
