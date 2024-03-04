@@ -18,11 +18,11 @@ Nunca he recibido un ```pdf``` infectado subido por un colega. En este sentido, 
 
 ### ¿Tienen virus los archivos del judisoft?
 
-Depende de que se entienda por virus. Tiene código sospechoso o decididamente malicioso. Pero tanto yo como sitios mmejor autorizados poca información podría dar al respecto salvo que "alguna cosa hacen" y decididamente ocupan un espacio en el tráfico.
+Depende de que se entienda por virus. Tiene código sospechoso o decididamente malicioso. Pero sitios mejor autorizados poca información podría dar al respecto salvo que "alguna cosa hacen" y decididamente ocupan un espacio en el tráfico.
 
 ### ¿Lo tienen todos, siquiera la gran mayoría?
 
-No, ---basado en mi experiencia--- son pocos los ```pdfs``` infectados considerando el gran caudal de ellos. Pero no es aventurado pensar que su numero crece. De hecho el archivo que aquí se exhibe como muestra parece que se duplico en otro; porque aun cuando es de un expediente que contiene una petición mía, estaba adosado a otra lista. Como conocemos muy poco de la manera en que trabaja el Judisoft[^1], ello podría tratarse de otro tipo de error.
+No, ---basado en mi experiencia--- son pocos los ```pdfs``` infectados considerando el gran caudal de ellos. La mayoría provienen de nuevos pdfs. Pero no es aventurado pensar que su numero crece. De hecho el archivo que aquí se exhibe como muestra parece que se duplico en otro; porque aun cuando es de un expediente que contiene una petición mía, estaba adosado a otra lista. Como conocemos muy poco de la manera en que trabaja el Judisoft[^1], ello podría tratarse de otro tipo de error.
 
 Carpeta con el [archivo original y _timestamps_](https://bafybeiau7f4waqhoinfba5gci2ecd3hfqxjopoykvfi6cc4sgcmfihyiue.ipfs.nftstorage.link/) Está allí al solo efecto de la prueba, si van a abrir algún pdf, mejor abrir el original que se halla en:[https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&o=b](https://www.csj.gov.py/verificarDocumento/Default.aspx?c=cdecaech&o=b).
 
