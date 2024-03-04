@@ -32,6 +32,8 @@ El análisis [hybrid-analisys.com](https://hybrid-analysis.com/sample/d9ceea207e
 
 De alguna forma no se activa si no pasa de Windows a un *nix. Es decir de un SO a otro. Como la mayoría usa Windows parecería que no hay razón alguna para preocuparse, pero recuerden que desde Windows 10 creo o quizás ya antes, Windows incluye un API de Linux. Una inmensa minoría usa Darwin. Tal vez ni siquiera saben que usan Darwin: solo compraron la mejor PC guiándose por el precio. Secundariamente son ellos los objetivos. Muy secundariamente. 
 
+[^1]: Y hasta donde yo sé, hasta ahora nadie ha usado la ley de transparencia para solicitar el código fuente del Judisoft.
+
 ### ¿Son peligrosos, debo tener cuidado?
 
 Hay dos respuestas:
@@ -66,7 +68,7 @@ Así que, no. No es descuido de ellos.
 
 ## Bloquear los servidores no es es una salida.
 
-Carezco de los conocimientos necesarios para conocer qué es lo que hace cada uno de los servidores que aprovechan la debilidad del ´´´pdf´´´ ni cual es el número de ellos, pero no serviría de nada.
+Carezco de los conocimientos necesarios para conocer qué es lo que hace cada uno de los servidores que aprovechan la debilidad del ```pdf``` ni cual es el número de ellos, pero no serviría de nada.
 
 No puedo decirles que la solución esta en bloquear las peticiones por ```dns``` y no creo que todos quieran tener un servidor ```dns``` corriendo en la oficina, lo que dicho sea de paso es solo una extravagancia. Y por mas de que lo tuvieran, de que valdría si estos sitios maliciosos mutan cada dia.
 
@@ -96,4 +98,4 @@ Al contrario se puede mejorar el control de acceso a los recursos.
 
 Pero... hay un formularios de denuncias que están hechos en ```Google Form```; si no hay tiempo para hacer un ```<form>``` no habrá tiempo para hacer una API.
 
-[^1]: Y hasta donde yo sé, hasta ahora nadie ha usado la ley de transparencia para solicitar el código fuente del Judisoft.
+
