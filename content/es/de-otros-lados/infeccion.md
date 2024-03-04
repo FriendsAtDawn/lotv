@@ -1,12 +1,12 @@
 ---
 title: "Cómo lidiar con los pdfs infectados del Judisof(TM)."
 description: "Guía de sobrevivencia."
-draft: true
+draft: false
 date: 2024-02-07
 ---
 
 
-Estas breves líneas, a los cuáles incluso el humilde epíteto de artículo le queda holgado, no quiere desacreditar al Judisoft(TM). La implementación del sistema es de lejos el salto mas importante que ha tenido el acceso a la justicia y contribuye de manera grandiosa a abaratar los costes. En todo sentido es un éxito.
+Esta entrada no quiere desacreditar al Judisoft(TM). La implementación del sistema es de lejos el salto mas importante que ha tenido el acceso a la justicia y contribuye de manera grandiosa a abaratar los costos del proceso. En todo sentido es un éxito.
 
 ## Frecuencia.
 
@@ -28,6 +28,10 @@ Carpeta con el [archivo original y _timestamps_](https://bafybeiau7f4waqhoinfba5
 
 El análisis [hybrid-analisys.com](https://hybrid-analysis.com/sample/d9ceea207e9dd5a0040ca8db12357f4c4a3607520ad993fe057fe84e4f24a25a/65dbb8cb7eaf4029bd001d5a). Nótese que hay archivos nombrados como "legítimos" recursos de Adobe. Y hay otros que no y hay otros que definitivamente son programas, vuelvo a subrayar, "legítimos". Es una ensalada varia a veces difícil de seguir por lo que requiere paciencia leer todos los documentos.
 
+### ¿Como funciona si mi antivirus no detecta nada?
+
+De alguna forma no se activa si no pasa de Windows a un *nix. Es decir de un SO a otro. Como la mayoría usa Windows parecería que no hay razón alguna para preocuparse, pero recuerden que desde Windows 10 creo o quizás ya antes, Windows incluye un API de Linux. Una inmensa minoría usa Darwin. Tal vez ni siquiera saben que usan Darwin: solo compraron la mejor PC guiándose por el precio. Secundariamente son ellos los objetivos. Muy secundariamente. 
+
 ### ¿Son peligrosos, debo tener cuidado?
 
 Hay dos respuestas:
@@ -38,13 +42,13 @@ En otro caso:
 
 - Si.
 
-Si nadie sabe que hacen estos _scripts_ quizás no estén haciendo algo bueno.
+Si nadie sabe que hacen estos _scripts_ quizás no estén haciendo algo bueno. La proposición más entera supone que es un tipo de codigo malicioso llamado [ramsoware](https://www.avast.com/business/resources/protection-against-linux-ransomware#pc).
 
 ### Por que me pasan estas cosas?
 
 Bien veamos.
 
-## El plan PDF/A --- Ó: ¡Me encanta cuando un plan se concreta!
+## El plan PDF/A --- Ó: ¡Me encanta cuando un plan no se concreta!
 
 Según la Acordada que se refiere al e-Expediente, al subir  un archivo desde nuestro equipo el mismo es recodificado a PDF/A.
 
@@ -54,17 +58,11 @@ En cuanto a los juzgadores imposible siquiera pensar en el mismo proceso ya que 
 
 ## ¿Descuido de los jueces?
 
-Cuando yo firmo  un ´´´pdf´´´ (¿a quien se le ocurre firmar un pdf?: a alguien que se hizo la idea de que los archivos de texto no son lo suficientemente sexy) con mi firma electrónica probablemente-no-certificada, la fecha se toma de [```Sectigo```](https://sectigo.com). Cuando los jueces lo hacen lo hacen, ...lo toman de su pc. El INTN tiene un servidor NTP. No sé si la gente syncroniza la hora de su pc con él y no lo creo.
+Cuando yo firmo  un ´´´pdf´´´ (¿a quien se le ocurre firmar un pdf?: a alguien que se hizo la idea de que los archivos de texto no son lo suficientemente sexy[^1]) con mi firma electrónica probablemente-no-certificada, la fecha se toma de [```Sectigo```](https://sectigo.com). Cuando los jueces lo hacen lo hacen, ...lo toman de su pc. El INTN tiene un servidor NTP. No sé si la gente syncroniza la hora de su pc con él y no lo creo.
 
-El código inserto es detectable a simple vista, pero aún asi los antivirus de Windows(c) no lo detecta.
+[^1]: Im too sexy for my text, too sexy for my text, more sexy than I expect.
 
 Así que, no. No es descuido de ellos.
-
-## Mi susurrada entristecida historia.
-
-Pero yo he estado a salvo de ellos. Sí he tenido problemas con el Paperless-ngx que los detecta y no los acepta. Pero como no uso un SO muy popular y los códigos que he podido observar hasta ahora son para el entorno Windows... Yo estaba a salvo. Aun asi, me propuse eliminarlos de mi archivo porque es muy fácil que alguien en el tramite diario remita por email alguna ```SD``` e infecte de esa manera la pc de otra persona.
-
-Bueno eso era al menos lo que yo creía. Que estaba a salvo. Sin embargo hoy he revisado el tráfico de ```dns``` de la oficina... y, no, mis ```pdfs``` han estado "llamando a casa" desde hace tiempo, solo que, después de que un sitio hiciera demasiadas peticiones bajando cerca de 1 Gb de no se que cosa, el servidor bloqueo ese tráfico y me mandó un e-mail. De esos que nunca leo.
 
 ## Bloquear los servidores no es es una salida.
 
@@ -82,7 +80,7 @@ Yo he tomado estas medidas de emergencia
 
 - **Mantener la base de datos local fuera** del alcance de internet --en lo posible; internet esta en todos lados.
 
-Los ```pdfs``` infectados los he impreso y escaneado. Se quen es una salida pedestre pero más no sé hacer.
+Los ```pdfs``` infectados los he impreso y escaneado. Se quen es una salida pedestre pero más no sé hacer ya que de hecho el [Paperless](https://docs.paperless-ngx.com/) corre sobre Linux
 
 No puedo hacer lo que algunos sitios recomiendan:
 
@@ -90,9 +88,9 @@ No puedo hacer lo que algunos sitios recomiendan:
 
 # Hay una solución política?
 
-Si, pero no le veo futuro. Para evitar el recargo de trafico, controlar el acceso a los recursos y abaratar los costos se podría escribir un API de REST para las personas que quieran usarlo.
+Si, pero no le veo futuro. Para evitar el recargo de trafico, controlar el acceso a los recursos y abaratar los costos se podría escribir un API de REST para las personas que quieran usarlo. Ello, quizás frenaría lo que parece ser una creciente infección. ¿Se imagina alguien tener el Judisoft secuestrado y pedir rescate por él?
 
-Ninguna secrecia será vulnerada.
+Con el API, ninguna secrecia será vulnerada.
 
 Al contrario se puede mejorar el control de acceso a los recursos.
 
