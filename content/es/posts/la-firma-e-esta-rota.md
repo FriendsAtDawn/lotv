@@ -25,20 +25,3 @@ Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo q
 4. La firma electrónica de la forma en que se la ha concebido e impuesta en el medio, está rota. No vale, ni sirve a sus fines.
 
 {{< graphcomment >}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------
