@@ -4,6 +4,7 @@ description: "Introducción a la siguiente entrada"
 draft: false
 tags: ["interés", "compuesto", "interés compuesto contínuo", "ICC", "matemáticas"]
 date: 2023-06-17
+featured_image: "/images/money.png"
 ---
 
 Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:
