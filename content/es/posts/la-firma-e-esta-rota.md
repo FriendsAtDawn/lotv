@@ -4,7 +4,7 @@ description: "And all the King's horses and all The King's men, couldn't put Hum
 tags: ["firma", "e-firma", "timestamp"]
 draft: false
 date: 2023-12-02
-featured_image: "/imagenes/stampel.png"
+featured_image: "/images/stampel.png"
 ---
 
 Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo que su extensión implican algo más que el discurso propio del derecho. Anoto que la e-sign está definida por sumas y por potenciaciones a números primos muy altos; basta saber eso para conocer la naturaleza de lo que elido.
