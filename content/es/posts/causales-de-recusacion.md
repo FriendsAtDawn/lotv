@@ -3,7 +3,7 @@ title: "La Ley de Enjuiciamiento y la Recusación de los jueces"
 description: "Se repartirán su ropa y echaran suerte sobre su palio."
 tags: ["nota", "jem", "recusar"]
 draft: false
-date: 2023-11-09
+date: 2021-03-09
 ---
 ![](https://img.shields.io/badge/document_v.-0.51-blue)
 
