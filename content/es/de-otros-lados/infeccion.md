@@ -99,4 +99,6 @@ Al contrario se puede mejorar el control de acceso a los recursos.
 
 Pero... hay un formularios de denuncias que están hechos en ```Google Form```; si no hay tiempo para hacer un ```<form>``` no habrá tiempo para hacer una API.
 
+{{< graphcomment >}}
+
 
