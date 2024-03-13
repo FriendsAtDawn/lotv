@@ -5,6 +5,7 @@ tags: ["nota", "jem", "recusar"]
 draft: false
 date: 2023-11-09
 ---
+![](https://img.shields.io/badge/document_v.-0.51-blue)
 
 Considérese lo siguiente:
 
@@ -23,14 +24,13 @@ Considérese lo siguiente:
 
 ## 1988 Anno Domini.
 
-El Código Civil es del año 1988, un año antes de que cayera la dictadura, la que se dijo nos mantuvo en al borde de la historia, por 35 años. Como seguíamos  en el mismo támdem, luego se propuso que sus efectos perduran y hasta hoy se afirma la convalescencia de esa larga gripe; lo que sinceramenta ya suena a excusa para no ir a trabajar.
+El Código Civil es del año 1988; de un año antes de que cayera la dictadura, la que se dijo nos mantuvo al borde de la historia por 35 años. ---Más tarde, como seguíamos  en el mismo támdem, se propuso que sus efectos son de aquellos que perduran; hasta hoy se afirma la convalescencia de esa vieja gripe; motivo que, sinceramente, ya suena a excusa para no ir a trabajar.
 
 Es decir es anterior a la Constitución. Y si se quiere podemos agregar que fué aún hecha a la sombra de la Constitución de 1967[^2], que inauguróa la serie de acontecimientos desafortunados cuya forma es la de nuestro futuro.
 
 [^2]: Sé que no es enteramente cierto... El Anteproyecto de Mendonça: https://archive.is/8T7Xt
 
-
-No voy a copiar los artículos de la Constitución que señala la prelación de las normas. Todos las conocemos siquiera de manera distante. Entiendo tambié que el lector conoce que, atendiendo a que la ausencia de reglamentación de sus normas podría tomarse como treta (uso esta palabra porque la de _excusa_ es un tanto descalificativa), para no cumplirla ni hacerla cumplir, su texto previó tal acaso.
+No voy a copiar los artículos de la Constitución que señala la prelación de las normas. Todos las conocemos siquiera de manera distante. Entiendo también que el lector conoce que, atendiendo a que la ausencia de reglamentación de sus normas podría tomarse como treta ---uso esta palabra porque la de _excusa_ es un tanto descalificativa---, para no cumplirla ni hacerla cumplir, su texto previó tal acaso.
 
 Sé que también leyeron el artículo 5 del Código Civil, esa metanorma.
 
@@ -40,7 +40,7 @@ Pero los jueces leen, o fingen leer, el Código Procesal Civil  como la los caba
 
 ## ¿A quienes están dirigidas las leyes?
 
-Sé que los tribunales no tienen facultad para remover a un Juez. Ello no empece a la siguiente proposición: el LEM[^3] virtualmente amplía las causales de recusación de un juez,  inmediatamente si consideramos que quien puede lo más, puede lo menos,  principio lógico, antes que legal y judicial. Y menos inmediatamente si consideramos la disonancia de lo enunciado por el Código Procesal Civil con lo enunciado por la Constitución y cómo es natural que se resuelva.
+Sé que los tribunales no tienen facultad para remover a un Juez. Ello no empece a la siguiente proposición: el LEM[^3] virtualmente amplía las causales de recusación de un juez,  inmediatamente si consideramos que quien puede lo más, puede lo menos,  principio lógico, antes que legal y judicial. Y menos inmediatamente si consideramos la disonancia de lo enunciado por el Código Procesal Civil con lo enunciado por la Constitución y la manera en que es natural que se resuelva.
 
 Y aún menos inmediatamente ---¿como es que nos volvimos tan sofisticados?--- de nuevo cuando nos hacemos la pregunta del acápite: ¿A quiénes estan dirigidas las leyes? Μήτι ἐγώ εἰμι, Κύριε?
 
