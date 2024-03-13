@@ -1,6 +1,11 @@
 ---
 title: "Timestampi, qu'est-ce que c'est?"
-description: "And all the King's horses and all The King's men, couldn't put Humpty together again"
+description: "
+             And all the King's horses  
+             and all The King's men,  
+             couldn't put Humpty  
+             together again
+             "
 tags: ["firma", "e-firma", "timestamp"]
 draft: false
 date: 2023-12-02
