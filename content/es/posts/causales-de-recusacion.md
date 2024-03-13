@@ -4,6 +4,7 @@ description: "Se repartirán su ropa y echaran suerte sobre su palio."
 tags: ["nota", "jem", "recusar"]
 draft: false
 date: 2021-03-09
+featured_image: "/images/asc.png"
 ---
 ![](https://img.shields.io/badge/document_v.-0.51-blue)
 
