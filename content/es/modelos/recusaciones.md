@@ -4,6 +4,7 @@ description: ""
 draft: false
 tags: ["modelos", "escritos", "recusación"]
 date: 2024-02-12
+featured_image: "/images/cap.png"
 ---
 
 {{< embed-pdf url="https://bafybeiaqt5da4jh5p4sfacfve2w67odvb36jitop2645gy6mbzkalilmk4.ipfs.nftstorage.link/" >}}
