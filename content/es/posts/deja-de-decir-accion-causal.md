@@ -4,7 +4,7 @@ description: "¿No ves que te hace mal?"
 tags: ["acción causal", "nonsense", "consequences will never be the same"]
 draft: false
 date: 2023-03-14
-feaured_image: "/images/dolor.png"
+featured_image: "/images/dolor.png"
 ---
 
 
