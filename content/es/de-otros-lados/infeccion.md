@@ -3,6 +3,7 @@ title: "Cómo lidiar con los pdfs infectados del Judisof(TM)."
 description: "Guía de sobrevivencia."
 draft: false
 date: 2024-02-07
+featured_image: "/images/pdf.png"
 ---
 
 ![](https://img.shields.io/badge/document_v.-0.5-blue)
