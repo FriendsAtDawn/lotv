@@ -61,6 +61,7 @@ The embedded code is visible to the naked eye, but the Windows antivirus doesn't
 
 So no. It's not their fault.
 
+
 ## Blocking servers is not the answer.
 
 I don't have the knowledge to know what each one does, but it wouldn't do any good as they change or mutated or whatever.
