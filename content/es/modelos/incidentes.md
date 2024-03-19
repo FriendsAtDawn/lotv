@@ -11,7 +11,7 @@ date: 2024-03-16
 
 Incidente de nulidad.
 
-{{< embed-pdf url="https://bafybeigf5s2wzbppokqu5ll23biy7baqjn6r2lhw7agqp4mccw4ycnpxhy.ipfs.nftstorage.link/">}}
+{{< embed-pdf url="https://bafybeicneyqcxpzpb4uj76ns4b6rb75dzc4x2pyzonttgsoi4iarnyokny.ipfs.nftstorage.link/">}}
 
 ---
 
