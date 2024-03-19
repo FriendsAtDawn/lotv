@@ -1,6 +1,6 @@
 ---
 title: "Incidentes"
-description: ""
+description: "Incidens"
 draft: false
 tags: ["modelos", "escritos", "recusación"]
 date: 2024-03-16
