@@ -4,6 +4,7 @@ description: "Incidens"
 draft: false
 tags: ["modelos", "escritos", "recusación"]
 date: 2024-03-16
+featured_image: "/images/incidente.png"
 ---
 
 ![](https://img.shields.io/badge/actualizado-16-03-2024-blue)
