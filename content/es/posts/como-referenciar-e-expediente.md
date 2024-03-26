@@ -45,7 +45,7 @@ Claro que uno puede adquirir uno propio, por ejemplo: el-segundo-mejor-abogado.c
 
 Al final de cada escrito que presentamos hay un número. 
 
-![](https://bafkreidgns2w2rqpdtciju6o5weyxxuh57ixrn5hh4hxbcstjy6thptbqy.ipfs.nftstorage.link/)
+{{< img src="https://bafkreidgns2w2rqpdtciju6o5weyxxuh57ixrn5hh4hxbcstjy6thptbqy.ipfs.nftstorage.link/" >}}
 
 En este caso es:
 
