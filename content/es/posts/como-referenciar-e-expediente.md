@@ -9,7 +9,7 @@ featured_image: "images/papers.png"
 
 ## Fojas.
 
-No podemos atarearnos con nada sin nombrarlo. Y el nombre tiene que reunir ciertas características, pero la que nos importa es que sea único dentro del universo de cosas que queremos nombrar, que no dé lugar a equívocos. Un ejemplo famoso es el de Odiseo que se hace nombrar <<Nadie>>. De esa manera no importa que Polifemo grite que <<Nadie lo mata>>. Nadie acudirá en su auxilio.
+No podemos atarearnos con nada sin nombrarlo. Y el nombre tiene que reunir ciertas características, pero la que nos importa es que sea único dentro del universo de cosas que queremos nombrar, que no dé lugar a equívocos. Un ejemplo famoso es el de Odiseo que se hace nombrar << Nadie >> en la cueva de Polifemo. De esa manera no importa que este grite que << Nadie lo mata >>. Nadie acudirá en su auxilio.
 
 Antes cuando teníamos que nombrar una pieza del expediente ---digamos un escrito que se presentó en autos--- lo único que teníamos que usar era una fórmula tipo << _a_ fojas _x_ de los autos _a_ | desde fojas _x_ a fojas _y_ >>.
 
@@ -73,8 +73,5 @@ Este link también nos puede servir para referenciar un escrito.
 Pero al lado hay un QR. Que no se puede leer. Como no se si está movido de propósito, no quiero ahondar en el tema. Porque si está movido de propósito señala una intención la de ocultar, siquiera de manera parcial, un dato. Aunque nadie pone un QR si no quiere que se lo escanee.
 
 Como dicen los malos vendedores o estafadores de las redes sociales: ¡al inbox!
-
-
-
 
 {{< graphcomment >}}
