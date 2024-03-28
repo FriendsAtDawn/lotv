@@ -33,12 +33,11 @@ Salvo el Dr. Ramírez Candia, quien si no lo definió por lo menos lo caracteriz
 
 > como ser errores de copia o meramente aritméticos, equívocos referentes a nombres y calidades de las partes
 
-Ref: A.I. 756 del 18 de noviembre de 2022 dictado en el expediente <<COOPERATIVA CHORTITZER
-LTDA. C/ RES. NRO. 7930007082/19 DEL 26 DE DICIEMBRE Y OTRA DICTADAS POR LA SUBSECRETARÍA DE ESTADO DE TRIBUTACIÓN>> Nro. 659 — Año 2021.
+Ref: [A.I. Nº 756][aiCho] del 18 de noviembre de 2022 dictado en el expediente <<COOPERATIVA CHORTITZER LTDA. C/ RES. NRO. 7930007082/19 DEL 26 DE DICIEMBRE Y OTRA DICTADAS POR LA SUBSECRETARÍA DE ESTADO DE TRIBUTACIÓN>> Nro. 659 — Año 2021.
 
 > constituyen errores materiales, en términos de la disposición, los errores de copia o aritméticos, los equívocos en que hubiese incurrido el juez acerca de los nombres y calidades de las partes, y la contradicción que pudiere existir entre los considerandos y la parte dispositiva
 
-Ref: <<A.I. 1136 del 26 diciembre de 2022 dictado en el juicio <<MUNICIPALIDAD DE ASUNCIÓN CONTRA NOTA Nº 5429 DEL 20/NOV/2020, DICTADA POR LA CONTRALORIA GENERAL DE LA REPÚBLICA>>.
+Ref: A.I. 1136 del 26 diciembre de 2022 dictado en el juicio <<MUNICIPALIDAD DE ASUNCIÓN CONTRA NOTA Nº 5429 DEL 20/NOV/2020, DICTADA POR LA CONTRALORIA GENERAL DE LA REPÚBLICA>>.
 
 > erores de copia o meramente aritméticos, equívocos referenies a nombres y calidades de las partes, etc
 
@@ -55,8 +54,10 @@ Estas caracterizaciones apuntan a indicar que el error no está en la volición 
 
 $$ \dfrac{e_{juicio}}{1} = \dfrac{1}{e_{material}} $$
 
+{{< graphcomment >}}
+
 [af]: <https://dictionary.apa.org/freudian-slip>
 [gRAE]: <https://dle.rae.es/gazapo>
 [bSS]: <https://www.imdb.com/title/tt0427392/characters/nm0001021>
 [nKiT]: <https://www.youtube.com/watch?v=-Pa5nqYXEnY>
-
+[aiCho]: <htps://304.villalba.is.eu.org/C39DB050C9586972412EDC18593AF9DD.pdf>
