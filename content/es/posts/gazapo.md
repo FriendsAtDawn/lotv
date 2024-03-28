@@ -37,7 +37,7 @@ Ref: [A.I. Nº 756][aiCho] del 18 de noviembre de 2022 dictado en el expediente 
 
 > constituyen errores materiales, en términos de la disposición, los errores de copia o aritméticos, los equívocos en que hubiese incurrido el juez acerca de los nombres y calidades de las partes, y la contradicción que pudiere existir entre los considerandos y la parte dispositiva
 
-Ref: A.I. 1136 del 26 diciembre de 2022 dictado en el juicio <<MUNICIPALIDAD DE ASUNCIÓN CONTRA NOTA Nº 5429 DEL 20/NOV/2020, DICTADA POR LA CONTRALORIA GENERAL DE LA REPÚBLICA>>.
+Ref: [A.I. 1136][1136] del 26 diciembre de 2022 dictado en el juicio <<MUNICIPALIDAD DE ASUNCIÓN CONTRA NOTA Nº 5429 DEL 20/NOV/2020, DICTADA POR LA CONTRALORIA GENERAL DE LA REPÚBLICA>>.
 
 > erores de copia o meramente aritméticos, equívocos referenies a nombres y calidades de las partes, etc
 
@@ -60,4 +60,5 @@ $$ \dfrac{e_{juicio}}{1} = \dfrac{1}{e_{material}} $$
 [gRAE]: <https://dle.rae.es/gazapo>
 [bSS]: <https://www.imdb.com/title/tt0427392/characters/nm0001021>
 [nKiT]: <https://www.youtube.com/watch?v=-Pa5nqYXEnY>
-[aiCho]: <htps://304.villalba.is.eu.org/C39DB050C9586972412EDC18593AF9DD.pdf>
+[aiCho]: <http://304.villalba.is.eu.org/C39DB050C9586972412EDC18593AF9DD.pdf>
+[1136]: <http://304.villalba.is.eu.org/8422B7C408F8E3BFFF606D5FE5FFF159.pdf>
