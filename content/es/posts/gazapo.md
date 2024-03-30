@@ -7,7 +7,7 @@ date: 2024-03-15
 featured_image: "images/errormaterial.png"
 ---
 
-![](https://img.shields.io/badge/document_v.-0.3-blue)
+![](https://img.shields.io/badge/document_v.-0.5-blue)
 
 ## Gazapo
 
@@ -43,10 +43,13 @@ Ref: [A.I. 1136][1136] del 26 diciembre de 2022 dictado en el juicio <<MUNICIPAL
 
 Refs:
 
-1. EXPEDIENTE: <<JUAN VICTOR MOLAS TURO S/ VIOLENCIAFAMILIAR>>. A.I. 1049 del 9 de diceimbre de 2022.
-2. EXPEDIENTE: <<OSTACIANO LOPEZ GONZALEZ Y OTROS 3/ ESTAFA Y OTRO>> AI 1034 del 5 de diembre de 2022.
-3. EXPEDIENTE: <<PEDRO ANTONIO GALEANO VALDEZ Y OTROS S/ESTAFA>>. AYS 891 dic 22.
-4. Expediente: <<COOPERATIVA CHORTIZER LTDA. C/ RES. NRO. 7930007082/19 DE 26 DE DICIEMBRE Y OTRA DICTADAS P 1R LA SUBSECRETARIA DE ESTADO DE TRIBUTACIÓN" Nro. 659 - Año 2021>> AYS 859 23 de dic 2022.
+1. <<Ostaciano Lopez Gonzalez Y Otros 3/ Estafa Y Otro>> A.I. Nº 1034 del 5 de diciembre de 2022.\guion{}
+2. <<Pedro Antonio Galeano Valdez Y Otros S/estafa>>. Acuerdo y Sentencia 891 diciembre 22.\guion{}
+3. <<Juan José Bernis C/ Res. Nro. 010-025 De Fecha 04/02/16 Dictada Por El Instituto De Previsión Social>>, Nro. 456 -Año 2017. [http://304.villalba.is.eu.org/94562.pdf](http://304.villalba.is.eu.org/94562.pdf)
+4. <<Leda Mabel Lorenz 	Moran C/ Municipalidad De Iruña 5/	Demanda Contencioso	Administrativa Y Solicitud De Medida	Cautelar De Urgencia>> NRO. 102, AÑO 2022. Acuerdo y Sentencia Nº 820 del 15 de diembre de 2022. [http://304.villalba.is.eu.org/94564.pdf#page=2](http://304.villalba.is.eu.org/94564.pdf#page=2)
+	
+5. <<Chep Technology Pyty Limited Contra Resolucion Nro. 534 De Fecha 18 De Noviembre De 2019,
+	Dictada Por La DINAPI>>. Expt. de la C.S.J. Nro. 48/20 . Acuerdo y Sentencia Nº 879 de fecha 29 de diciembre de 2022. [http://304.villalba.is.eu.org/94774.pdf#page=2](http://304.villalba.is.eu.org/94774.pdf#page=2)
 
 ## Conclusión preliminar
 
