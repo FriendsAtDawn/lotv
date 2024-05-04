@@ -19,25 +19,20 @@ Los trabajos  que he leído sobre caducidad de instancia siempre se refieren a e
 
 La pregunta es más bien retórica: debemos hacerlo.  Porque así es como  manda la Constitución.  No podemos pensar en recurrir,  ni siquiera en instrumentos  internacionales,  sin antes  agotar las posibilidades lógicas  que son, al fin, las posibilidades del lenguaje  que nos brinda nuestra propia legislación.  Dicho  esto, podemos pasar a intentarlo.
 
-Uno podría pensar  que lo que acá se dice  es natural  común,  esperable  y que no brinda ningún tipo de información,  ya que si uno quiere conocer las leyes,  debe recurrir a los códigos.  Hay algo, sin embargo, que se interpone  entre los códigos  y  el lector.  Y es el idioma español. El idioma español, como cualquier otro idioma,  trata de establecer  relaciones entre distintos objetos  que  rememoran  al pensamiento.  En ese sentido,  quizá habría que decir que son como remanentes del pensamiento.  En muchos momentos,  se parecen  a las conclusiones  lógicas.  Parecen que siguen el mapa de las conclusiones lógicas  o parece que siguen el mapa que traza la lógica.  Sin embargo,  no solamente en el español,  también en otros idiomas.  Uno  no puede fiarse estrictamente la lógica para guiarse en su expresividad. Un ejemplo sencillo: en lógica una doble negación podría sea casi siempre una afirmación. En español pueden existir expresiones como la siguiente: "no tiene sentido nada de los que dices", es un desperdicio de palabras, es un inútil énfasis pero todo el mundo entiende que no tiene sentido nada de lo que dices, a pesar del "doble-no". Quizás sea porque no tiene sentido nada de lo que dices, es decir, quizas se deba al <<entorno>>.
+Uno podría pensar  que lo que acá se dice  es natural  común,  esperable  y que no brinda ningún tipo de información,  ya que si uno quiere conocer las leyes,  debe recurrir a los códigos.  Hay algo, sin embargo, que se interpone  entre los códigos  y  el lector.  Y es el idioma español. El idioma español, como cualquier otro idioma,  trata de establecer  relaciones entre distintos objetos  que  rememoran  al pensamiento.  En ese sentido,  quizá habría que decir que son como remanentes del pensamiento.  En muchos momentos,  se parecen  a las conclusiones  lógicas.  Parecen que siguen el mapa de las conclusiones lógicas  o parece que siguen el mapa que traza la lógica.  Sin embargo,  no solamente en el español,  también en otros idiomas, uno  no puede fiarse estrictamente de la lógica para guiarse en su expresividad. Un ejemplo sencillo y harto repetido: en lógica una doble negación podría que sea casi siempre una afirmación. En español pueden existir expresiones como la siguiente: "no tiene sentido nada de los que dices", es un desperdicio de palabras, es un inútil énfasis pero todo el mundo entiende que no tiene sentido nada de lo que dices, a pesar del "doble-no". Quizás sea porque no tiene sentido nada de lo que dices, es decir, quizas se deba al <<entorno>>.
 
 
 Así que tenemos tres artículos dentro del Código Procesal civil que se refieren a una misma cosa,  peor aún,  como es común en estos casos, se refieren a la misma cosa utilizando palabras diversas.  Aparentemente, las leyes  pasan por algo como una comisión de estilo. Al redactar cualquier texto, conviene que no repitamos la misma palabra  muy pronto.  Pero si simplemente  utilizamos un sinónimo en vez de él, quiere decir que lo estamos pensando mal,  no que estamos escribiendo mal. Bien,  tenemos tres artículos entonces pegados uno al otro  y que se refieren a la misma cosa utilizando una diversa denominación.  Cómo conciliarlos.
 
-
 # Entonces vi al Cordero romper el primer sello.
 
-
-
 Entonces, los supuestos de la caducidad de instancia son, además del plazo de seis meses, los requisitos que se señalan como:
-
 
 1. > cuando no se instare su curso
 
 2. > cuando no se verificare acto que tuviere por objeto impulsar el procedimiento
 
 3. > cuando hubiere inactividad de las partes
-
 
 Antes que nada ¿qué es esa palabra <<objeto>> que figura en el 173?: ¿significa la plena realización del impulso o significa la mera intención de realizarla?
 
@@ -67,7 +62,6 @@ Notamos enseguida que los supuestos del 172 y del 173 no coinciden, pero tampoco
 
 Hasta ahí nuestra hipótesis parece funcionar. ¿Pero qué pasa cuando consideramos el 174?
 
-
 El 174 excluye toda acción.
 
 Dicho de otro modo.
@@ -86,19 +80,17 @@ Y entonces, ninguno de estos artículos se contradicen, todos ellos se acercan a
 
 Si se habrá de aceptar que los artículos 172, 173 y 174 se refieren a un mismo instituto, forzoso es admitir que habrá que interpretarlos unos por otros y admitir lo siguiente:
 
-
 1. que la palabra <<objeto>> del artículo 173 del  significa no medio sino fin.
 
 2. que la palabra <<inactividad>> del artículo 174 del  significa inactividad en la medida en que la actividad desplegada se inútil para la marcha del procedimiento.
 
 Sólo así se tendrá tres artículos que sin coincidir exactamente uno con otro acercan a la idea del instituto del que se ocupan.
 
-
 Tras de análisis no hay solamente lógica sino cierto  pragmatismo que ha guiado a mi lógica hacia cierto punto, cierta intención: al que se evite que los juicios duren eternamente.
 
 Los jueces suelen hacer eso, sólo que en la operación de interpretar no declaran cual es la volición que los guía. Así que es mejor que compruebe si en este caso la intención de que los juicios no duren para siempre es también la de los jueces y doctrinarios.
 
-<< la interpretación pragmática puede ser especificadora, restrictiva o extensiva.
+<<la interpretación pragmática puede ser especificadora, restrictiva o extensiva.
 
 a) La interpretación especificadora tiene lugar cuando las consideraciones pragmáticas son decisivas para la elección entre varias interpretaciones, todas ellas posibles y razonables dentro del <<significado lingüístico natural>> del texto. La elección puede referirse a dudas interpretativas de naturaleza sintáctica, lógica o semántica; las últimas pueden consistir en ambigüedad o en vaguedad.>>[][142]ross
 
