@@ -17,7 +17,7 @@ Aristóteles distinguía entre cuatro causas de un efecto: esa tipología más b
 
 Es más, al parecer la palabra que usaba --αἰτία-- significa más bien explicación que causa.
 
-En la antigua Grecia, filósofos como Aristóteles exploraron ampliamente las ideas de causalidad y causalidad. Aristóteles distinguía entre cuatro tipos de causas: materiales, formales, eficientes y finales, que pretendían explicar distintas facetas de las relaciones causa-efecto. Sostenía que comprender estas causas era esencial para entender el mundo. Traduciendo en términos aristotélicos, explicar el mundo.
+En la antigua Grecia, filósofos como Aristóteles exploraron ampliamente las ideas de causalidad y causalidad. Aristóteles distinguía entre cuatro tipos de causas: materiales, formales, eficientes y finales, que pretendían explicar distintas facetas de las relaciones causa-efecto o por lo menos describirlas. Sostenía que comprender estas causas era esencial para entender el mundo. Traduciendo en términos aristotélicos, explicar el mundo.
 
 Así pues: llamar a una persona u objeto X "aitios" o "aition" de un acontecimiento, acción o estado de cosas Y es asignar a X el estatus anterior (deplorable o loable) en relación con Y. No es simplemente afirmar que X está en  interrelación con Y por haberlo hecho o provocado, aunque esto esté implícito.[^1]
 
@@ -25,7 +25,7 @@ En este caso la relación de los hechos, evita el problema de la causalidad.
 
 Y es mejor que termine acá porque la discusión prosigue por caminos bastante más complicados y todos conocen la **causa** final de Tomás de Aquino así que en la _edad oscura_ ya se usaba causa de la manera en la que lo usamos hoy.
 
-Si se fijan, Aquino pensaba que si eliminamos un hecho no puede existir el otro. Esto es una simplificación, claro, y es lo que hoy
+Si se fijan, Aquino pensaba que si eliminamos un hecho no puede existir el otro. Esto es una simplificación, claro, y es lo que hoy hacemos.
 
 Lo dicho anteriormente es sólo con el fin de relatar que tan antiguo es el tema y que tan complejo se puede volver: les relaté el _Pablo Honey_ de la cuestión, no dejen que llegue al _Kid A_.
 
