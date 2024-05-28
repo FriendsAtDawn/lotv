@@ -7,11 +7,31 @@ tags: ["sources:ongoing", "proof:partial", "caducidad", "instancia"]
 featured_image: "/images/a-travers.webp"
 ---
 
+# Esquemas de interpretación jurídica.
+
+Dejando de lado la norma como hecho gramatical ---en efecto, las normas estan escritas en un determinado idioma y como tal sujeta a los avatares que la misma impone a cualquier otro texto, por lo que la _i. gramatical_ no es un modelo de interpretación jurídica sino más bien el indicador de que es necesaria una--- los esquemas de interpretación jurídica se aglomeran en torno a tres topicos:  (1) la congruencia de la misma con la legislación histórica, es decir la que ya no esta vigente, (2) la articulación con la vigente; en efecto ninguna norma puede ser considerada un hecho aislado, (3) sus posibilidades teleologicas.
+
+Estos tres esquemas son racionales y prácticos, pero claro, no están exentos de todo descontrol. 
+
+Atraen un sinfín de denominaciones cuya enumeracion es legión.  Tales, y su capacidad de servir al entendimiento, escapan al objeto del presente artículo, y en especial al interés de quien lo escribe.
+
+Así que abierta la instancia de la interpretación jurídica, mediante lo que los ingleses denominan _mischief rule_ las preguntas son:
+
+1. ¿La materia de esta norma vigente fue alguna vez practicada por otra ya no vigente y en que sentido?
+
+2. ¿Cómo entender esta norma teniendo en cuenta el contexto de las demás?
+
+3. ¿Existe un motivo por la cual la norma fue dictada, que es ajena a su texto y pertenece a los lineamientos políticos generales de un Estado?
+
+El segundo polo es el que más asemeja a una interpretación: ninguna norma es discernible de manera atómica, sino en relación con las demás, que son su contexto ---al menos en parte.
+
+Los otros dos no parecen sino procedimientos para _usar_ la norma y justificar su uso. No digo que deban ser deshechadas, sí que deben ser puestos en un cómodo segundo plano.
+
 # Dies irae
 
 Las personas que ya han leído  algunos de mis  escritos  en este mismo sitio  pudieron haberse encontrado con la demostración  ---que pretende ser  estrictamente lógica---  del instituto de la caducidad de instancia.  El punto quizás merezca  alguna que otra aclaración,  porque  el único problema que conlleva  es,  al igual, que todos los demás problemas que incluyen la cuenta de plazos: el _dies-a-quem_.
 
-Los plazos  son muy fáciles de decir.  Son muy fáciles de aprender. Usualmente  se pide en los exámenes que se los exprese.  Esos plazos ---que son cinco, seis, siete, ocho días, tres meses--- significan nada.  Porque lo que es difícil de determinar, lo que a veces no se puede determinar es desde qué momento se los cuenta...  Lo demás son números  que están anotados en los códigos a los cuales podemos recurrir  siempre.
+Los plazos  son muy fáciles de decir.  Son muy fáciles de aprender. Usualmente  se pide en los exámenes que se los exprese.  Esos plazos ---que son cinco, seis, siete, ocho días, tres meses--- significan nada.  Porque lo que a veces no se puede determinar es desde qué momento se los cuenta...  Lo demás son números  que están anotados en los códigos a los cuales podemos recurrir  siempre.
 
 Los trabajos  que he leído sobre caducidad de instancia siempre se refieren a ella  usando la tradición jurídica  que principalmente  nos viene de Argentina.  Su ley es ligeramente distinta sobre el caso, si bien se la puede asimilar en muchos puntos. Pero este movernos hacia los libros argentinos es sintómatico: no hallamos la respuesta en nuestra base de datos, en nuestro código, luego, se lo preguntamos a otro. Tal procedimiento es inútil: los demás tampoco saben.
 
@@ -22,7 +42,7 @@ La pregunta es más bien retórica: debemos hacerlo.  Porque así es como  manda
 Uno podría pensar  que lo que acá se dice  es natural  común,  esperable  y que no brinda ningún tipo de información,  ya que si uno quiere conocer las leyes,  debe recurrir a los códigos.  Hay algo, sin embargo, que se interpone  entre los códigos  y  el lector.  Y es el idioma español. El idioma español, como cualquier otro idioma,  trata de establecer  relaciones entre distintos objetos  que  rememoran  al pensamiento.  En ese sentido,  quizá habría que decir que son como remanentes del pensamiento.  En muchos momentos,  se parecen  a las conclusiones  lógicas.  Parecen que siguen el mapa de las conclusiones lógicas  o parece que siguen el mapa que traza la lógica.  Sin embargo,  no solamente en el español,  también en otros idiomas, uno  no puede fiarse estrictamente de la lógica para guiarse en su expresividad. Un ejemplo sencillo y harto repetido: en lógica una doble negación podría que sea casi siempre una afirmación. En español pueden existir expresiones como la siguiente: "no tiene sentido nada de los que dices", es un desperdicio de palabras, es un inútil énfasis pero todo el mundo entiende que no tiene sentido nada de lo que dices, a pesar del "doble-no". Quizás sea porque no tiene sentido nada de lo que dices, es decir, quizas se deba al <<entorno>>.
 
 
-Así que tenemos tres artículos dentro del Código Procesal civil que se refieren a una misma cosa,  peor aún,  como es común en estos casos, se refieren a la misma cosa utilizando palabras diversas.  Aparentemente, las leyes  pasan por algo como una comisión de estilo. Al redactar cualquier texto, conviene que no repitamos la misma palabra  muy pronto.  Pero si simplemente  utilizamos un sinónimo en vez de él, quiere decir que lo estamos pensando mal,  no que estamos escribiendo mal. Bien,  tenemos tres artículos entonces pegados uno al otro  y que se refieren a la misma cosa utilizando una diversa denominación.  Cómo conciliarlos.
+Así que tenemos tres artículos dentro del Código Procesal Civil que se refieren a una misma cosa,  peor aún,  como es común en estos casos, se refieren a la misma cosa utilizando palabras diversas.  Aparentemente, las leyes  pasan por algo como una comisión de estilo. Al redactar cualquier texto, conviene que no repitamos la misma palabra  muy pronto.  Pero si simplemente  utilizamos un sinónimo en vez de él, quiere decir que lo estamos pensando mal,  no que estamos escribiendo mal. Bien,  tenemos tres artículos entonces pegados uno al otro  y que se refieren a la misma cosa utilizando una diversa denominación.  Cómo conciliarlos.
 
 # Entonces vi al Cordero romper el primer sello.
 
