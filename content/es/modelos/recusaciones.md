@@ -17,4 +17,6 @@ featured_image: "/images/cap.png"
 
 {{< embed-pdf url="https://bafybeiawlxlffqyp2y7jn2bjqgz23nfdhqr6jmt4jir6hmj5bxnuiddvre.ipfs.nftstorage.link/" >}}
 
+{{< embed-pdf url="https://bafkreigyifdpz2xq4obd3gjktg4aqzjeyl3wds5adwaly5ufiutrdg6ra4.ipfs.nftstorage.link/" >}}
+
 {{< graphcomment >}}
