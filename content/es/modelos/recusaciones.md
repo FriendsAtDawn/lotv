@@ -9,7 +9,7 @@ featured_image: "/images/cap.png"
 
 {{< embed-pdf url="https://bafybeiaqt5da4jh5p4sfacfve2w67odvb36jitop2645gy6mbzkalilmk4.ipfs.nftstorage.link/" >}}
 
-{{< embed-pdf url="https://meridian.0007407.xyz/Recusacion.pdf/" >}}
+{{< embed-pdf url="https://meridian.0007407.xyz/Recusacion.pdf" >}}
 
 - [Recusación](https://bafybeie27ygfdnp6uh5efxihcf7qwhet7misjbmdl3r6qrzgfasg4f6gtm.ipfs.nftstorage.link/)
 
