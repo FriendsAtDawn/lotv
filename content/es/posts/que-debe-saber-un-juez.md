@@ -4,6 +4,7 @@ description: "O, dicho de otro modo: ¿Qué se supone que sabe?."
 tags: ["saber", "matemáticas", "interés", "hechos notorios"]
 draft: false
 date: 2023-02-07
+featured_image: "/images/que.png"
 ---
 
 *Antes de leer este post, es mejor leer el de interés compuesto.*
