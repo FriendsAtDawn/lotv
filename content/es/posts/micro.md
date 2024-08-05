@@ -2,7 +2,7 @@
 title: "Micro...!"
 description: "Blogging...!"
 tags: ["notas", "micro" ]
-draft: false
+draft: true
 date: 2023-07-09
 ---
 
