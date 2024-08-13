@@ -9,6 +9,7 @@ featured_image: "/images/incidente.png"
 
 ![](https://img.shields.io/badge/actualizado-16-03-2024-blue)
 
+{{< ipfs url="QmPAygjxM2Ky2wfPFKn8edKr5P8FDv4WgRbySyr8Si46KU" >}}
 
 Incidente de nulidad.
 
