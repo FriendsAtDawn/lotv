@@ -6,6 +6,8 @@ tags: ["sin clasificar", "documentos", "", ""]
 date: 2024-08-01
 ---
 
+Repositorio de documentos sin clasificar. Muchas veces se hacen de manera automática así que es esperable que haya repeticiones o errores.
+
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264596.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264597.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264598.pdf" >}}
