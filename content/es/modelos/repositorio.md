@@ -1,7 +1,7 @@
 ---
 title: "Repositorio"
 description: "Documentos sin clasificar"
-draft: false
+draft: true
 tags: ["sin clasificar", "documentos", "", ""]
 date: 2024-08-01
 ---
@@ -22,7 +22,6 @@ Repositorio de documentos sin clasificar. Muchas veces se hacen de manera autom√
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264610.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264611.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264612.pdf" >}}
-{{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264613.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264617.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264618.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264619.pdf" >}}
