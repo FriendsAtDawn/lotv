@@ -13,9 +13,7 @@ date: 2024-08-01
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264600.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264601.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264602.pdf" >}}
-{{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264603.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264604.pdf" >}}
-{{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264605.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264606.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264607.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264608.pdf" >}}
