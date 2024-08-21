@@ -49,15 +49,12 @@ date: 2024-08-01
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264636.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264637.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264638.pdf" >}}
-{{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264639.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264640.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264641.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264642.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264643.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264644.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264645.pdf" >}}
-{{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264646.pdf" >}}
-{{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264647.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264648.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264649.pdf" >}}
 {{< files url="https://82a6e7f025ac7f6656f8e48f89606278.ipfscdn.io/ipfs/bafybeihwxtroc6box5e3bherherhltrbjjwso24vlp6hmpf6aqnfzw5cty/1724264650.pdf" >}}
