@@ -1,4 +1,4 @@
-{{ $secret := .Site.Get."ipfs_secret" }}
+{{ $secret := .Site.Get.ipfs_secret }}
 <div style="position: relative; padding-bottom: 100%; /* 16:9 Aspect Ratio */
             height: 0; overflow: hidden;">
     <iframe src="http://{{ $secret }}.ipfscdn.io/ipfs/{{ .Get "url" }}" 
