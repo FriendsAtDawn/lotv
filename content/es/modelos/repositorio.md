@@ -1,7 +1,7 @@
 ---
 title: "Repositorio"
 description: "Documentos sin clasificar"
-draft: true
+draft: false
 tags: ["sin clasificar", "documentos", "", ""]
 date: 2024-08-01
 ---
