@@ -20,17 +20,17 @@ enableRobotsTXT = true
 #[[menu.main]]
 #   identifier = 'servidor-1'
 #   name = 'buscar jurisprudencia: servidor 01'
-#   url = 'https://rcsj.0007407.xyz'
+#   url = 'https://ministerio.mt.eu.org'
 #   weight = 110
 [[menu.main]]
     identifier = 'servidor-2'
     name = 'servidor 02 '
-    url = 'https://firmus.site/recoll/'
+    url = 'https://ministerio.mt.eu.org/'
     weight = 120
 [[menu.main]]
     identifier = 'servidor-3'
     name = 'servidor 03'
-    url = 'https://2nd.firmus.site/recoll/'
+    url = 'https://ministerio.mt.eu.org/'
     weight = 130
   [[menu.main]]
     identifier = 'villalba.is'
