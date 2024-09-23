@@ -1,7 +1,7 @@
 ---
 title: "Repositorio General"
 description: ""
-draft: false
+draft: true
 tags: ["modelos", "escritos", "", ""]
 date: 2024-08-01
 ---
