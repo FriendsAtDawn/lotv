@@ -6,7 +6,7 @@ description: "And all the King's horses
              together again"
 tags: ["firma", "e-firma", "timestamp"]
 draft: false
-date: 2023-12-02
+date: 2024-09-02
 featured_image: "/images/stampel.png"
 ---
 
