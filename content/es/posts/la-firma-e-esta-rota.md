@@ -27,4 +27,16 @@ Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo q
 
 4. La firma electrónica de la forma en que se la ha concebido e impuesta en el medio, está rota. No vale, ni sirve a sus fines.
 
+---
+
+¿Qué ocurre si una firma no lleva sello de tiempo?
+
+Como ya se ha mencionado, la marca de tiempo puede demostrar que un documento no ha sido alterado desde que se emitió la marca de tiempo.
+
+Si se impugna un documento, puede ser difícil demostrar que la firma digital era válida en el momento de la firma sin una marca de tiempo. La mayoría de los certificados de firma caducan al cabo de uno o dos años, por lo que es difícil demostrar la validez del documento varios años después.
+
+Sin una marca de tiempo para los documentos legalmente vinculantes, como los contratos comerciales, alguien podría alterar el reloj de su ordenador y luego renunciar a un documento. Esto, a su vez, podría dar lugar a costosas batallas legales, ya que las partes se disputarían sus reclamaciones.
+
+El sellado de tiempo es esencialmente un testigo independiente. Proporciona las pruebas necesarias para demostrar que el documento no ha cambiado desde que se envió el hash del documento a la TSA en el momento de la firma.
+
 {{< graphcomment >}}
