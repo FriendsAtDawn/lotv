@@ -1,6 +1,6 @@
 ---
 title: "Expediente Finexpar"
-date: 2023-01-05
+date: 2024-11-11
 tags: ["expediente", "copias", "finexpar"]
 draft: false
 description: "Copias de un expediente"
