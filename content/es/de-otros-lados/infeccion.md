@@ -98,7 +98,11 @@ Con el API, ninguna secrecia será vulnerada.
 
 Al contrario se puede mejorar el control de acceso a los recursos.
 
-Pero... hay un formularios de denuncias que están hechos en ```Google Form```; si no hay tiempo para hacer un ```<form>``` no habrá tiempo para hacer una API.
+Pero... hay un formularios de denuncias que están hechos en ```Google Form```; si no hay tiempo para hacer un ```<form>``` no habrá tiempo para hacer una API.--
+
+---
+
+Posdata: Hace unas semanas, no pude postearlo en su momento, recibí un email de la C.G.T.: estaba tan lleno de cosas extrañas que el mismo Judisoft no podía aceptarlo. No sé si colocarlo en el blog. Debe ser, para un usuario de Win, muy peligroso.
 
 {{< graphcomment >}}
 
