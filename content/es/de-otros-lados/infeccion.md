@@ -84,7 +84,13 @@ Yo he tomado estas medidas de emergencia
 
 - **Mantener la base de datos local fuera** del alcance de internet --en lo posible; internet esta en todos lados.
 
-Los ```pdfs``` infectados los he impreso y escaneado. Se quen es una salida pedestre pero más no sé hacer ya que de hecho el [Paperless](https://docs.paperless-ngx.com/) corre sobre Linux
+Los ```pdfs``` infectados los he impreso y escaneado. Se quen es una salida pedestre pero más no sé hacer ya que de hecho el [Paperless](https://docs.paperless-ngx.com/) corre sobre Linux.
+
+---
+
+Posdata: El _pp_ es un hermoso _wrapper_ de por lo menos 10 programas. Desactive uno de ellos y _solucioné_: mi problema.
+
+---
 
 No puedo hacer lo que algunos sitios recomiendan:
 
